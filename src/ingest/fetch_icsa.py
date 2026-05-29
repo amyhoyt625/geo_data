@@ -3,27 +3,29 @@ import time           # for sleep delays between API calls
 import json           # for saving output as JSON
 from bs4 import BeautifulSoup  # for parsing DBLP HTML pages
 
-
+#scrapes the dblp conference page for ICSA years (2017-present)
+#scrapes all publications available for that year
+#dblp structured so easy to get one piece of data, and doi is always convenielty clean 
 def get_dois_for_year(year):
-    """
-    Scrapes the DBLP conference page for a given ICSA year (2017–present)
-    and returns a deduplicated list of DOIs for all papers that year.
-    ICSA papers are published by IEEE, so DOIs start with 10.1109.
-    """
+    #ICSA papers are published by IEEE, so DOIs start with 10.1109.
+
     url = f"https://dblp.org/db/conf/icsa/icsa{year}.html"
     
+    #found this info online
     # User-Agent header required — DBLP blocks requests without it
     headers = {"User-Agent": "Mozilla/5.0"}
+    #get raw html
     response = requests.get(url, headers=headers)
     
-    # if the page doesn't exist (e.g. year out of range), skip it
+    # if page doesn't exist, skip it
     if response.status_code != 200:
         print(f"No ICSA page found for {year}")
         return []
-    
+    #parse html into searchable struct
     soup = BeautifulSoup(response.text, "html.parser")
     dois = []
     
+    #found DOI prefix online
     for tag in soup.find_all("a", href=True):
         href = tag["href"]
         # ICSA papers are IEEE — filter to 10.1109 DOIs only
@@ -31,18 +33,15 @@ def get_dois_for_year(year):
             doi = href.replace("https://doi.org/", "")
             dois.append(doi)
     
-    dois = list(set(dois))  # remove duplicates (DBLP often has 2 links per paper)
+    dois = list(set(dois))  # remove duplicates
     print(f"ICSA {year}: found {len(dois)} DOIs")
     return dois
 
 
+#scrapes the dblp conference page for WICSA years (2011-2016 excluding 2013)
 def get_dois_for_year_wicsa(year):
-    """
-    Scrapes DBLP for WICSA years (2011, 2012, 2014, 2015, 2016).
-    WICSA (Working IEEE/IFIP Conference on Software Architecture) was
-    the predecessor to ICSA. Also published by IEEE so same DOI prefix.
-    Note: 2010 and 2013 were not held as WICSA — see get_dois_for_year_ecsa.
-    """
+    #Also published by IEEE so same DOI prefix.
+
     url = f"https://dblp.org/db/conf/wicsa/wicsa{year}.html"
     headers = {"User-Agent": "Mozilla/5.0"}
     response = requests.get(url, headers=headers)
@@ -65,11 +64,11 @@ def get_dois_for_year_wicsa(year):
     return dois
 
 
+#scrapes the dblp conference page for ECSA years (2010, 2013)
 def get_dois_for_year_ecsa(year):
     """
-    Scrapes DBLP for ECSA years (2010, 2013).
     ECSA (European Conference on Software Architecture) was co-located
-    or used instead of WICSA in these years.
+    or used instead of WICSA in these years
     ECSA is published by Springer, so DOIs start with 10.1007 not 10.1109.
     We filter to DOIs with underscores to get individual papers only,
     excluding the proceedings-level DOI (e.g. 10.1007/978-3-642-15114-9)
@@ -102,10 +101,6 @@ def get_openalex_data(doi):
     """
     Given a DOI, looks up the paper in OpenAlex and returns
     a list of rows — one row per author-institution pair.
-
-    OpenAlex is used instead of DBLP because it returns pre-geocoded
-    affiliation data (institution name + country code) directly on the
-    paper record. DBLP has no affiliation data in its API responses.
 
     Each row contains: doi, year, title, author, institution, country_code.
     If an author has no institution data, we still record them with None
@@ -158,13 +153,13 @@ def get_openalex_data(doi):
 
 def run_pipeline(icsa_years, wicsa_years, ecsa_years):
     """
-    Runs the full pipeline across all three conference name eras:
-    ECSA (2010, 2013) → WICSA (2011, 2012, 2014-2016) → ICSA (2017-present)
+    Runs the full pipeline across all three conferences:
+    ECSA → WICSA → ICSA 
     For each year, fetches DOIs from DBLP then looks up each DOI in OpenAlex.
     Returns all author-institution rows and a list of DOIs with no OpenAlex data.
     """
     all_rows = []
-    missing_dois = []  # DOIs where OpenAlex returned nothing — for coverage reporting
+    missing_dois = []  # DOIs where OpenAlex returned nothing — to check for coverage 
     
     # pair each year with the correct fetch function for that conference era
     for year, fetch_fn in [
