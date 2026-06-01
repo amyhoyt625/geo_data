@@ -3,7 +3,7 @@ import time           # for sleep delays between API calls
 import json           # for saving output as JSON
 from bs4 import BeautifulSoup  # for parsing DBLP HTML pages
 
-#scrapes the dblp conference page for ICSA years (2017-present)
+#scrapes the dblp conference page for ICSA years (2010-present)
 #scrapes all publications available for that year
 #dblp structured so easy to get one piece of data, and doi is always convenielty clean 
 def get_dois_for_year(year):
