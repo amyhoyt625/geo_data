@@ -29,15 +29,13 @@ REGION_MAP = {
     "BR": "Latin America", "AR": "Latin America", "CL": "Latin America",
     "CO": "Latin America", "UY": "Latin America", "PE": "Latin America",
     "BB": "Latin America", "EC": "Latin America",
-    # Middle East & Africa
-    "IL": "Middle East & Africa", "SA": "Middle East & Africa",
-    "EG": "Middle East & Africa", "ZA": "Middle East & Africa",
-    "IR": "Middle East & Africa", "AE": "Middle East & Africa",
-    "TN": "Middle East & Africa", "DZ": "Middle East & Africa",
-    "LY": "Middle East & Africa", "KW": "Middle East & Africa",
-    "PS": "Middle East & Africa", "JO": "Middle East & Africa", 
-    "TR": "Middle East & Africa", "MA": "Middle East & Africa", 
-    "NA": "Middle East & Africa",
+    # Middle East
+    "IL": "Middle East", "SA": "Middle East", "AE": "Middle East",
+    "IR": "Middle East", "KW": "Middle East", "JO": "Middle East",
+    "PS": "Middle East", "TR": "Middle East",
+    # Africa
+    "ZA": "Africa", "EG": "Africa", "TN": "Africa", "DZ": "Africa",
+    "LY": "Africa", "MA": "Africa", "NA": "Africa",
 }
 
 def add_regions(input_file, output_file):

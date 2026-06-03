@@ -21,7 +21,7 @@ def calculate_proportions(input_file, conference_name):
         data = json.load(f)
 
     regions = ["North America", "W. Europe", "E. Europe",
-               "Asia-Pacific", "Latin America", "Middle East & Africa", "Other"]
+               "Asia-Pacific", "Latin America", "Middle East", "Africa", "Other"]
 
     # --- per-year ---
     year_region_papers = defaultdict(lambda: defaultdict(set))
@@ -47,7 +47,7 @@ def calculate_proportions(input_file, conference_name):
 
     # --- print per-year ---
     print(f"\n=== {conference_name} — per-year ===")
-    print(f"{'Year':<6} {'Total':>6} {'N.Am':>8} {'W.Eu':>8} {'E.Eu':>8} {'A-Pac':>8} {'Lat.Am':>8} {'ME&Af':>8} {'Other':>8}")
+    print(f"{'Year':<6} {'Total':>6} {'N.Am':>8} {'W.Eu':>8} {'E.Eu':>8} {'A-Pac':>8} {'Lat.Am':>8} {'M.East':>8} {'Africa':>8} {'Other':>8}")
 
     year_results = []
     for year in sorted(year_total_papers.keys()):
@@ -64,7 +64,7 @@ def calculate_proportions(input_file, conference_name):
 
     # --- print per-period ---
     print(f"\n=== {conference_name} — per 3-year period ===")
-    print(f"{'Period':<12} {'Total':>6} {'N.Am':>8} {'W.Eu':>8} {'E.Eu':>8} {'A-Pac':>8} {'Lat.Am':>8} {'ME&Af':>8} {'Other':>8}")
+    print(f"{'Period':<12} {'Total':>6} {'N.Am':>8} {'W.Eu':>8} {'E.Eu':>8} {'A-Pac':>8} {'Lat.Am':>8} {'M.East':>8} {'Africa':>8} {'Other':>8}")
 
     period_results = []
     for period in ["2010-2012", "2013-2015", "2016-2018", "2019-2021", "2022-2024", "2025-present"]:
@@ -92,7 +92,7 @@ icse_years, icse_periods = calculate_proportions("data/clean/icse_with_regions.j
 with open("data/clean/proportions_yearly.json", "w") as f:
     json.dump(icsa_years + icse_years, f, indent=2)
 
-with open("data/clean/proportions_5year.json", "w") as f:
+with open("data/clean/proportions_3year.json", "w") as f:
     json.dump(icsa_periods + icse_periods, f, indent=2)
 
 print(f"\nSaved yearly and 3-year proportions to data/clean/")
