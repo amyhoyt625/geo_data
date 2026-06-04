@@ -5,27 +5,25 @@ from bs4 import BeautifulSoup  # for parsing DBLP HTML pages
 
 #scrapes the dblp conference page for ICSA years (2010-present)
 #scrapes all publications available for that year
-#dblp structured so easy to get one piece of data, and doi is always convenielty clean 
+#dblp structured so easy to get one piece of data, and doi is always conveniently clean 
 def get_dois_for_year(year):
     #ICSA papers are published by IEEE, so DOIs start with 10.1109.
 
     url = f"https://dblp.org/db/conf/icsa/icsa{year}.html"
     
-    #found this info online
     # User-Agent header required — DBLP blocks requests without it
     headers = {"User-Agent": "Mozilla/5.0"}
-    #get raw html
+    # get raw html
     response = requests.get(url, headers=headers)
     
     # if page doesn't exist, skip it
     if response.status_code != 200:
         print(f"No ICSA page found for {year}")
         return []
-    #parse html into searchable struct
+    # parse html into searchable struct
     soup = BeautifulSoup(response.text, "html.parser")
     dois = []
     
-    #found DOI prefix online
     for tag in soup.find_all("a", href=True):
         href = tag["href"]
         # ICSA papers are IEEE — filter to 10.1109 DOIs only
@@ -40,7 +38,7 @@ def get_dois_for_year(year):
 
 #scrapes the dblp conference page for WICSA years (2011-2016 excluding 2013)
 def get_dois_for_year_wicsa(year):
-    #Also published by IEEE so same DOI prefix.
+    # Also published by IEEE so same DOI prefix.
 
     url = f"https://dblp.org/db/conf/wicsa/wicsa{year}.html"
     headers = {"User-Agent": "Mozilla/5.0"}
@@ -68,7 +66,7 @@ def get_dois_for_year_wicsa(year):
 def get_dois_for_year_ecsa(year):
     """
     ECSA (European Conference on Software Architecture) was co-located
-    or used instead of WICSA in these years
+    or used instead of WICSA in these years.
     ECSA is published by Springer, so DOIs start with 10.1007 not 10.1109.
     We filter to DOIs with underscores to get individual papers only,
     excluding the proceedings-level DOI (e.g. 10.1007/978-3-642-15114-9)
@@ -102,7 +100,12 @@ def get_openalex_data(doi):
     Given a DOI, looks up the paper in OpenAlex and returns
     a list of rows — one row per author-institution pair.
 
-    Each row contains: doi, year, title, author, institution, country_code.
+    Each row contains: doi, year, title, author, author_position,
+    institution, country_code.
+    
+    author_position values from OpenAlex: "first", "middle", "last"
+    Note: OpenAlex does not give exact numeric positions for middle authors.
+    
     If an author has no institution data, we still record them with None
     values so we can track the coverage gap.
     """
@@ -118,34 +121,42 @@ def get_openalex_data(doi):
     
     work = response.json()
     rows = []
+
+    # get primary topic once per paper — same for all authors on this paper
+    # primary_topic is a paper-level field, not author-level
+    primary_topic = None
+    if work.get("primary_topic"):
+        primary_topic = work["primary_topic"].get("display_name")
     
     # loop through every author on the paper
     for authorship in work.get("authorships", []):
         author_name = authorship["author"]["display_name"]
+        # OpenAlex returns "first", "middle", or "last"
+        author_pos = authorship.get("author_position", "unknown")
         institutions = authorship.get("institutions", [])
         
         if not institutions:
-            # author exists in OpenAlex but has no institution linked
-            # still record them so we can measure how many are missing
             rows.append({
                 "doi": doi,
                 "year": work.get("publication_year"),
                 "title": work.get("display_name"),
                 "author": author_name,
+                "author_position": author_pos,
                 "institution": None,
                 "country_code": None,
+                "primary_topic": primary_topic,  # add here
             })
         else:
-            # an author can be affiliated with multiple institutions
-            # (e.g. joint appointments) — we create one row per institution
             for inst in institutions:
                 rows.append({
                     "doi": doi,
                     "year": work.get("publication_year"),
                     "title": work.get("display_name"),
                     "author": author_name,
+                    "author_position": author_pos,
                     "institution": inst.get("display_name"),
-                    "country_code": inst.get("country_code"),  # ISO 3166 2-letter code e.g. "US", "DE"
+                    "country_code": inst.get("country_code"),
+                    "primary_topic": primary_topic,  # add here
                 })
     
     return rows
@@ -180,13 +191,17 @@ def run_pipeline(icsa_years, wicsa_years, ecsa_years):
     return all_rows, missing_dois
 
 
-# --- conference year ranges by era ---
-icsa_years = range(2017, 2026)       # ICSA: renamed from WICSA in 2017
-wicsa_years = [2011, 2012, 2014, 2015, 2016]  # WICSA: 2010 and 2013 were ECSA instead
-ecsa_years = [2010, 2013]            # ECSA: Springer-published, different DOI format
+icsa_years = range(2017, 2026)
+wicsa_years = [2011, 2012, 2014, 2015, 2016]
+ecsa_years = [2010, 2013]
 
 # --- run the pipeline ---
 data, missing = run_pipeline(icsa_years, wicsa_years, ecsa_years)
+
+# quick check — print first 3 rows to verify author_position field
+print("\nSample rows:")
+for row in data[:3]:
+    print(row)
 
 # save the flat list of author-institution rows to JSON
 # each row = one author at one institution for one paper
@@ -197,5 +212,5 @@ with open("data/raw/icsa_affiliations.json", "w") as f:
 with open("data/raw/missing_dois.txt", "w") as f:
     f.write("\n".join(missing))
 
-print(f"Done: {len(data)} author-institution rows")
+print(f"\nDone: {len(data)} author-institution rows")
 print(f"Missing: {len(missing)} DOIs returned no OpenAlex data")
