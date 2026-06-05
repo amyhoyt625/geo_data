@@ -1,0 +1,3862 @@
+[
+  {
+    "doi": "10.1145/2568225.2568285",
+    "year": 2014,
+    "title": "Case studies and tools for contract specifications",
+    "author": "Todd W. Schiller",
+    "author_position": "first",
+    "institution": "University of Washington",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568285",
+    "year": 2014,
+    "title": "Case studies and tools for contract specifications",
+    "author": "Kellen Donohue",
+    "author_position": "middle",
+    "institution": "University of Washington",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568285",
+    "year": 2014,
+    "title": "Case studies and tools for contract specifications",
+    "author": "Forrest Coward",
+    "author_position": "middle",
+    "institution": "University of Washington",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568285",
+    "year": 2014,
+    "title": "Case studies and tools for contract specifications",
+    "author": "Michael D. Ernst",
+    "author_position": "last",
+    "institution": "University of Washington",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568291",
+    "year": 2014,
+    "title": "TradeMaker: automated dynamic analysis of synthesized tradespaces",
+    "author": "Hamid Bagheri",
+    "author_position": "first",
+    "institution": "University of Virginia",
+    "country_code": "US",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568291",
+    "year": 2014,
+    "title": "TradeMaker: automated dynamic analysis of synthesized tradespaces",
+    "author": "Hamid Bagheri",
+    "author_position": "first",
+    "institution": "George Mason University",
+    "country_code": "US",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568291",
+    "year": 2014,
+    "title": "TradeMaker: automated dynamic analysis of synthesized tradespaces",
+    "author": "Chong Tang",
+    "author_position": "middle",
+    "institution": "University of Virginia",
+    "country_code": "US",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568291",
+    "year": 2014,
+    "title": "TradeMaker: automated dynamic analysis of synthesized tradespaces",
+    "author": "Kevin Sullivan",
+    "author_position": "last",
+    "institution": "University of Virginia",
+    "country_code": "US",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568247",
+    "year": 2014,
+    "title": "Improving automated source code summarization via an eye-tracking study of programmers",
+    "author": "Paige Rodeghero",
+    "author_position": "first",
+    "institution": "University of Notre Dame",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568247",
+    "year": 2014,
+    "title": "Improving automated source code summarization via an eye-tracking study of programmers",
+    "author": "Collin McMillan",
+    "author_position": "middle",
+    "institution": "University of Notre Dame",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568247",
+    "year": 2014,
+    "title": "Improving automated source code summarization via an eye-tracking study of programmers",
+    "author": "Paul W. McBurney",
+    "author_position": "middle",
+    "institution": "University of Notre Dame",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568247",
+    "year": 2014,
+    "title": "Improving automated source code summarization via an eye-tracking study of programmers",
+    "author": "Nigel Bosch",
+    "author_position": "middle",
+    "institution": "University of Notre Dame",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568247",
+    "year": 2014,
+    "title": "Improving automated source code summarization via an eye-tracking study of programmers",
+    "author": "Sidney K. D\u2019Mello",
+    "author_position": "last",
+    "institution": "University of Notre Dame",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568320",
+    "year": 2014,
+    "title": "Dictionary learning based software defect prediction",
+    "author": "Xiao\u2010Yuan Jing",
+    "author_position": "first",
+    "institution": "Wuhan University",
+    "country_code": "CN",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568320",
+    "year": 2014,
+    "title": "Dictionary learning based software defect prediction",
+    "author": "Xiao\u2010Yuan Jing",
+    "author_position": "first",
+    "institution": "Nanjing University of Posts and Telecommunications",
+    "country_code": "CN",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568320",
+    "year": 2014,
+    "title": "Dictionary learning based software defect prediction",
+    "author": "Shi Ying",
+    "author_position": "middle",
+    "institution": "Wuhan University",
+    "country_code": "CN",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568320",
+    "year": 2014,
+    "title": "Dictionary learning based software defect prediction",
+    "author": "Zhiwu Zhang",
+    "author_position": "middle",
+    "institution": "Wuhan University",
+    "country_code": "CN",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568320",
+    "year": 2014,
+    "title": "Dictionary learning based software defect prediction",
+    "author": "Zhiwu Zhang",
+    "author_position": "middle",
+    "institution": "Nanjing University of Posts and Telecommunications",
+    "country_code": "CN",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568320",
+    "year": 2014,
+    "title": "Dictionary learning based software defect prediction",
+    "author": "Shanshan Wu",
+    "author_position": "middle",
+    "institution": "Wuhan University",
+    "country_code": "CN",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568320",
+    "year": 2014,
+    "title": "Dictionary learning based software defect prediction",
+    "author": "Shanshan Wu",
+    "author_position": "middle",
+    "institution": "Nanjing University of Posts and Telecommunications",
+    "country_code": "CN",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568320",
+    "year": 2014,
+    "title": "Dictionary learning based software defect prediction",
+    "author": "Jin Liu",
+    "author_position": "last",
+    "institution": "Wuhan University",
+    "country_code": "CN",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568264",
+    "year": 2014,
+    "title": "Hope for the best, prepare for the worst: multi-tier control for adaptive systems",
+    "author": "Nicol\u00e1s D\u2019Ippolito",
+    "author_position": "first",
+    "institution": "Imperial College London",
+    "country_code": "GB",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568264",
+    "year": 2014,
+    "title": "Hope for the best, prepare for the worst: multi-tier control for adaptive systems",
+    "author": "V\u0131\u0301ctor Braberman",
+    "author_position": "middle",
+    "institution": "University of Buenos Aires",
+    "country_code": "AR",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568264",
+    "year": 2014,
+    "title": "Hope for the best, prepare for the worst: multi-tier control for adaptive systems",
+    "author": "Jeff Kramer",
+    "author_position": "middle",
+    "institution": "Imperial College London",
+    "country_code": "GB",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568264",
+    "year": 2014,
+    "title": "Hope for the best, prepare for the worst: multi-tier control for adaptive systems",
+    "author": "Jeff Magee",
+    "author_position": "middle",
+    "institution": "Imperial College London",
+    "country_code": "GB",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568264",
+    "year": 2014,
+    "title": "Hope for the best, prepare for the worst: multi-tier control for adaptive systems",
+    "author": "Daniel Sykes",
+    "author_position": "middle",
+    "institution": "Imperial College London",
+    "country_code": "GB",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568264",
+    "year": 2014,
+    "title": "Hope for the best, prepare for the worst: multi-tier control for adaptive systems",
+    "author": "Sebasti\u00e1n Uchitel",
+    "author_position": "last",
+    "institution": "University of Buenos Aires",
+    "country_code": "AR",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568264",
+    "year": 2014,
+    "title": "Hope for the best, prepare for the worst: multi-tier control for adaptive systems",
+    "author": "Sebasti\u00e1n Uchitel",
+    "author_position": "last",
+    "institution": "Imperial College London",
+    "country_code": "GB",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568273",
+    "year": 2014,
+    "title": "Micro execution",
+    "author": "Patrice Godefroid",
+    "author_position": "first",
+    "institution": "Microsoft (United States)",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568238",
+    "year": 2014,
+    "title": "Building it together: synchronous development in OSS",
+    "author": "Qi Xuan",
+    "author_position": "first",
+    "institution": "University of California, Davis",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568238",
+    "year": 2014,
+    "title": "Building it together: synchronous development in OSS",
+    "author": "Qi Xuan",
+    "author_position": "first",
+    "institution": "Zhejiang University of Technology",
+    "country_code": "CN",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568238",
+    "year": 2014,
+    "title": "Building it together: synchronous development in OSS",
+    "author": "Vladimir Filkov",
+    "author_position": "last",
+    "institution": "University of California, Davis",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568315",
+    "year": 2014,
+    "title": "Influence of social and technical factors for evaluating contribution in GitHub",
+    "author": "Jason Tsay",
+    "author_position": "first",
+    "institution": "Carnegie Mellon University",
+    "country_code": "US",
+    "primary_topic": "Open Source Software Innovations"
+  },
+  {
+    "doi": "10.1145/2568225.2568315",
+    "year": 2014,
+    "title": "Influence of social and technical factors for evaluating contribution in GitHub",
+    "author": "Laura Dabbish",
+    "author_position": "middle",
+    "institution": "Carnegie Mellon University",
+    "country_code": "US",
+    "primary_topic": "Open Source Software Innovations"
+  },
+  {
+    "doi": "10.1145/2568225.2568315",
+    "year": 2014,
+    "title": "Influence of social and technical factors for evaluating contribution in GitHub",
+    "author": "James D. Herbsleb",
+    "author_position": "last",
+    "institution": "Carnegie Mellon University",
+    "country_code": "US",
+    "primary_topic": "Open Source Software Innovations"
+  },
+  {
+    "doi": "10.1145/2568225.2568232",
+    "year": 2014,
+    "title": "Performance regression testing target prioritization via performance risk analysis",
+    "author": "Peng Huang",
+    "author_position": "first",
+    "institution": "University of California, San Diego",
+    "country_code": "US",
+    "primary_topic": "Software System Performance and Reliability"
+  },
+  {
+    "doi": "10.1145/2568225.2568232",
+    "year": 2014,
+    "title": "Performance regression testing target prioritization via performance risk analysis",
+    "author": "Xiao Ma",
+    "author_position": "middle",
+    "institution": "University of Illinois Urbana-Champaign",
+    "country_code": "US",
+    "primary_topic": "Software System Performance and Reliability"
+  },
+  {
+    "doi": "10.1145/2568225.2568232",
+    "year": 2014,
+    "title": "Performance regression testing target prioritization via performance risk analysis",
+    "author": "Dongcai Shen",
+    "author_position": "middle",
+    "institution": "University of California, San Diego",
+    "country_code": "US",
+    "primary_topic": "Software System Performance and Reliability"
+  },
+  {
+    "doi": "10.1145/2568225.2568232",
+    "year": 2014,
+    "title": "Performance regression testing target prioritization via performance risk analysis",
+    "author": "Yuanyuan Zhou",
+    "author_position": "last",
+    "institution": "University of California, San Diego",
+    "country_code": "US",
+    "primary_topic": "Software System Performance and Reliability"
+  },
+  {
+    "doi": "10.1145/2568225.2568254",
+    "year": 2014,
+    "title": "The strength of random search on automated program repair",
+    "author": "Yuhua Qi",
+    "author_position": "first",
+    "institution": "National University of Defense Technology",
+    "country_code": "CN",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568254",
+    "year": 2014,
+    "title": "The strength of random search on automated program repair",
+    "author": "Xiaoguang Mao",
+    "author_position": "middle",
+    "institution": "National University of Defense Technology",
+    "country_code": "CN",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568254",
+    "year": 2014,
+    "title": "The strength of random search on automated program repair",
+    "author": "Yan Lei",
+    "author_position": "middle",
+    "institution": "National University of Defense Technology",
+    "country_code": "CN",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568254",
+    "year": 2014,
+    "title": "The strength of random search on automated program repair",
+    "author": "Ziying Dai",
+    "author_position": "middle",
+    "institution": "National University of Defense Technology",
+    "country_code": "CN",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568254",
+    "year": 2014,
+    "title": "The strength of random search on automated program repair",
+    "author": "Chengsong Wang",
+    "author_position": "last",
+    "institution": "National University of Defense Technology",
+    "country_code": "CN",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568229",
+    "year": 2014,
+    "title": "Characterizing and detecting performance bugs for smartphone applications",
+    "author": "Yepang Liu",
+    "author_position": "first",
+    "institution": "Hong Kong University of Science and Technology",
+    "country_code": "HK",
+    "primary_topic": "Green IT and Sustainability"
+  },
+  {
+    "doi": "10.1145/2568225.2568229",
+    "year": 2014,
+    "title": "Characterizing and detecting performance bugs for smartphone applications",
+    "author": "Chang Xu",
+    "author_position": "middle",
+    "institution": "Nanjing University",
+    "country_code": "CN",
+    "primary_topic": "Green IT and Sustainability"
+  },
+  {
+    "doi": "10.1145/2568225.2568229",
+    "year": 2014,
+    "title": "Characterizing and detecting performance bugs for smartphone applications",
+    "author": "Shing-Chi Cheung",
+    "author_position": "last",
+    "institution": "Hong Kong University of Science and Technology",
+    "country_code": "HK",
+    "primary_topic": "Green IT and Sustainability"
+  },
+  {
+    "doi": "10.1145/2568225.2568281",
+    "year": 2014,
+    "title": "Inductive verification of data model invariants for web applications",
+    "author": "Ivan Boci\u0107",
+    "author_position": "first",
+    "institution": "University of California, Santa Barbara",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568281",
+    "year": 2014,
+    "title": "Inductive verification of data model invariants for web applications",
+    "author": "Tevfik Bultan",
+    "author_position": "last",
+    "institution": "University of California, Santa Barbara",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568310",
+    "year": 2014,
+    "title": "Self-adaptation through incremental generative model transformations at runtime",
+    "author": "Bihuan Chen",
+    "author_position": "first",
+    "institution": "Fudan University",
+    "country_code": "CN",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568310",
+    "year": 2014,
+    "title": "Self-adaptation through incremental generative model transformations at runtime",
+    "author": "Xin Peng",
+    "author_position": "middle",
+    "institution": "Fudan University",
+    "country_code": "CN",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568310",
+    "year": 2014,
+    "title": "Self-adaptation through incremental generative model transformations at runtime",
+    "author": "Yijun Yu",
+    "author_position": "middle",
+    "institution": "The Open University",
+    "country_code": "GB",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568310",
+    "year": 2014,
+    "title": "Self-adaptation through incremental generative model transformations at runtime",
+    "author": "Bashar Nuseibeh",
+    "author_position": "middle",
+    "institution": "University of Limerick",
+    "country_code": "IE",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568310",
+    "year": 2014,
+    "title": "Self-adaptation through incremental generative model transformations at runtime",
+    "author": "Wenyun Zhao",
+    "author_position": "last",
+    "institution": "Fudan University",
+    "country_code": "CN",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568313",
+    "year": 2014,
+    "title": "Live API documentation",
+    "author": "Siddharth Subramanian",
+    "author_position": "first",
+    "institution": "University of Waterloo",
+    "country_code": "CA",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568313",
+    "year": 2014,
+    "title": "Live API documentation",
+    "author": "Laura Inozemtseva",
+    "author_position": "middle",
+    "institution": "University of Waterloo",
+    "country_code": "CA",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568313",
+    "year": 2014,
+    "title": "Live API documentation",
+    "author": "Reid Holmes",
+    "author_position": "last",
+    "institution": "University of Waterloo",
+    "country_code": "CA",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568283",
+    "year": 2014,
+    "title": "Mining configuration constraints: static analyses and empirical results",
+    "author": "Sarah Nadi",
+    "author_position": "first",
+    "institution": "University of Waterloo",
+    "country_code": "CA",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568283",
+    "year": 2014,
+    "title": "Mining configuration constraints: static analyses and empirical results",
+    "author": "Thorsten Berger",
+    "author_position": "middle",
+    "institution": "IT University of Copenhagen",
+    "country_code": "DK",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568283",
+    "year": 2014,
+    "title": "Mining configuration constraints: static analyses and empirical results",
+    "author": "Christian K\u00e4stner",
+    "author_position": "middle",
+    "institution": "Carnegie Mellon University",
+    "country_code": "US",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568283",
+    "year": 2014,
+    "title": "Mining configuration constraints: static analyses and empirical results",
+    "author": "Krzysztof Czarnecki",
+    "author_position": "last",
+    "institution": "University of Waterloo",
+    "country_code": "CA",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568260",
+    "year": 2014,
+    "title": "An exploratory study of the pull-based software development model",
+    "author": "Georgios Gousios",
+    "author_position": "first",
+    "institution": "Delft University of Technology",
+    "country_code": "NL",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568260",
+    "year": 2014,
+    "title": "An exploratory study of the pull-based software development model",
+    "author": "Martin Pinzger",
+    "author_position": "middle",
+    "institution": "University of Klagenfurt",
+    "country_code": "AT",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568260",
+    "year": 2014,
+    "title": "An exploratory study of the pull-based software development model",
+    "author": "Arie van Deursen",
+    "author_position": "last",
+    "institution": "Delft University of Technology",
+    "country_code": "NL",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568265",
+    "year": 2014,
+    "title": "A study of equivalent and stubborn mutation operators using human analysis of equivalence",
+    "author": "Xiangjuan Yao",
+    "author_position": "first",
+    "institution": "China University of Mining and Technology",
+    "country_code": "CN",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568265",
+    "year": 2014,
+    "title": "A study of equivalent and stubborn mutation operators using human analysis of equivalence",
+    "author": "Mark Harman",
+    "author_position": "middle",
+    "institution": "University College London",
+    "country_code": "GB",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568265",
+    "year": 2014,
+    "title": "A study of equivalent and stubborn mutation operators using human analysis of equivalence",
+    "author": "Yue Jia",
+    "author_position": "last",
+    "institution": "University College London",
+    "country_code": "GB",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568266",
+    "year": 2014,
+    "title": "Using psycho-physiological measures to assess task difficulty in software development",
+    "author": "Thomas Fritz",
+    "author_position": "first",
+    "institution": "University of Zurich",
+    "country_code": "CH",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568266",
+    "year": 2014,
+    "title": "Using psycho-physiological measures to assess task difficulty in software development",
+    "author": "Andrew Begel",
+    "author_position": "middle",
+    "institution": "Microsoft (United States)",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568266",
+    "year": 2014,
+    "title": "Using psycho-physiological measures to assess task difficulty in software development",
+    "author": "S. M\u00fcller",
+    "author_position": "middle",
+    "institution": "University of Zurich",
+    "country_code": "CH",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568266",
+    "year": 2014,
+    "title": "Using psycho-physiological measures to assess task difficulty in software development",
+    "author": "Serap Yi\u01e7it-Elliott",
+    "author_position": "middle",
+    "institution": "Exponent (United States)",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568266",
+    "year": 2014,
+    "title": "Using psycho-physiological measures to assess task difficulty in software development",
+    "author": "Manuela Z\u00fcger",
+    "author_position": "last",
+    "institution": "University of Zurich",
+    "country_code": "CH",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568321",
+    "year": 2014,
+    "title": "Making web applications more energy efficient for OLED smartphones",
+    "author": "Ding Li",
+    "author_position": "first",
+    "institution": "University of Southern California",
+    "country_code": "US",
+    "primary_topic": "Green IT and Sustainability"
+  },
+  {
+    "doi": "10.1145/2568225.2568321",
+    "year": 2014,
+    "title": "Making web applications more energy efficient for OLED smartphones",
+    "author": "Angelica Huyen Tran",
+    "author_position": "middle",
+    "institution": "University of Southern California",
+    "country_code": "US",
+    "primary_topic": "Green IT and Sustainability"
+  },
+  {
+    "doi": "10.1145/2568225.2568321",
+    "year": 2014,
+    "title": "Making web applications more energy efficient for OLED smartphones",
+    "author": "William G. J. Halfond",
+    "author_position": "last",
+    "institution": "University of Southern California",
+    "country_code": "US",
+    "primary_topic": "Green IT and Sustainability"
+  },
+  {
+    "doi": "10.1145/2568225.2568292",
+    "year": 2014,
+    "title": "Spotting working code examples",
+    "author": "Iman Keivanloo",
+    "author_position": "first",
+    "institution": "Queen's University",
+    "country_code": "CA",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568292",
+    "year": 2014,
+    "title": "Spotting working code examples",
+    "author": "Juergen Rilling",
+    "author_position": "middle",
+    "institution": "Concordia University",
+    "country_code": "CA",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568292",
+    "year": 2014,
+    "title": "Spotting working code examples",
+    "author": "Ying Zou",
+    "author_position": "last",
+    "institution": "Queen's University",
+    "country_code": "CA",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568282",
+    "year": 2014,
+    "title": "Alternate refactoring paths reveal usability problems",
+    "author": "Mohsen Vakilian",
+    "author_position": "first",
+    "institution": "University of Illinois Urbana-Champaign",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568282",
+    "year": 2014,
+    "title": "Alternate refactoring paths reveal usability problems",
+    "author": "Ralph E. Johnson",
+    "author_position": "last",
+    "institution": "University of Illinois Urbana-Champaign",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568226",
+    "year": 2014,
+    "title": "Cowboys, ankle sprains, and keepers of quality: how is video game development different from software development?",
+    "author": "Emerson Murphy-Hill",
+    "author_position": "first",
+    "institution": "North Carolina State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568226",
+    "year": 2014,
+    "title": "Cowboys, ankle sprains, and keepers of quality: how is video game development different from software development?",
+    "author": "Thomas Zimmermann",
+    "author_position": "middle",
+    "institution": "Microsoft (United States)",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568226",
+    "year": 2014,
+    "title": "Cowboys, ankle sprains, and keepers of quality: how is video game development different from software development?",
+    "author": "Nachiappan Nagappan",
+    "author_position": "last",
+    "institution": "Microsoft (United States)",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568284",
+    "year": 2014,
+    "title": "Transition from centralized to decentralized version control systems: a case study on reasons, barriers, and outcomes",
+    "author": "K\u0131van\u00e7 Mu\u015flu",
+    "author_position": "first",
+    "institution": "University of Washington",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568284",
+    "year": 2014,
+    "title": "Transition from centralized to decentralized version control systems: a case study on reasons, barriers, and outcomes",
+    "author": "Christian Bird",
+    "author_position": "middle",
+    "institution": "Microsoft (United States)",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568284",
+    "year": 2014,
+    "title": "Transition from centralized to decentralized version control systems: a case study on reasons, barriers, and outcomes",
+    "author": "Nachiappan Nagappan",
+    "author_position": "middle",
+    "institution": "Microsoft (United States)",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568284",
+    "year": 2014,
+    "title": "Transition from centralized to decentralized version control systems: a case study on reasons, barriers, and outcomes",
+    "author": "Jacek Czerwonka",
+    "author_position": "last",
+    "institution": "Microsoft (United States)",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568308",
+    "year": 2014,
+    "title": "Trading robustness for maintainability: an empirical study of evolving c# programs",
+    "author": "N\u00e9lio Cacho",
+    "author_position": "first",
+    "institution": "Universidade Federal do Rio Grande do Norte",
+    "country_code": "BR",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568308",
+    "year": 2014,
+    "title": "Trading robustness for maintainability: an empirical study of evolving c# programs",
+    "author": "Thiago de Alc\u00e2ntara C\u00e9sar",
+    "author_position": "middle",
+    "institution": "Universidade Federal do Rio Grande do Norte",
+    "country_code": "BR",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568308",
+    "year": 2014,
+    "title": "Trading robustness for maintainability: an empirical study of evolving c# programs",
+    "author": "Thomas Filipe",
+    "author_position": "middle",
+    "institution": "Universidade Federal do Rio Grande do Norte",
+    "country_code": "BR",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568308",
+    "year": 2014,
+    "title": "Trading robustness for maintainability: an empirical study of evolving c# programs",
+    "author": "Eliezio Soares",
+    "author_position": "middle",
+    "institution": "Universidade Federal do Rio Grande do Norte",
+    "country_code": "BR",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568308",
+    "year": 2014,
+    "title": "Trading robustness for maintainability: an empirical study of evolving c# programs",
+    "author": "Arthur Cassio",
+    "author_position": "middle",
+    "institution": "Universidade Federal do Rio Grande do Norte",
+    "country_code": "BR",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568308",
+    "year": 2014,
+    "title": "Trading robustness for maintainability: an empirical study of evolving c# programs",
+    "author": "Rafael Castro de Souza",
+    "author_position": "middle",
+    "institution": "Universidade Federal do Rio Grande do Norte",
+    "country_code": "BR",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568308",
+    "year": 2014,
+    "title": "Trading robustness for maintainability: an empirical study of evolving c# programs",
+    "author": "Israel Quintanilla Garc\u00eda",
+    "author_position": "middle",
+    "institution": "Universidade Federal do Rio Grande do Norte",
+    "country_code": "BR",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568308",
+    "year": 2014,
+    "title": "Trading robustness for maintainability: an empirical study of evolving c# programs",
+    "author": "Eiji Adachi",
+    "author_position": "middle",
+    "institution": "Pontif\u00edcia Universidade Cat\u00f3lica do Rio de Janeiro",
+    "country_code": "BR",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568308",
+    "year": 2014,
+    "title": "Trading robustness for maintainability: an empirical study of evolving c# programs",
+    "author": "Alessandro Garcia",
+    "author_position": "last",
+    "institution": "Pontif\u00edcia Universidade Cat\u00f3lica do Rio de Janeiro",
+    "country_code": "BR",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568249",
+    "year": 2014,
+    "title": "Two's company, three's a crowd: a case study of crowdsourcing software development",
+    "author": "Klaas-Jan Stol",
+    "author_position": "first",
+    "institution": "University of Limerick",
+    "country_code": "IE",
+    "primary_topic": "Mobile Crowdsensing and Crowdsourcing"
+  },
+  {
+    "doi": "10.1145/2568225.2568249",
+    "year": 2014,
+    "title": "Two's company, three's a crowd: a case study of crowdsourcing software development",
+    "author": "Brian Fitzgerald",
+    "author_position": "last",
+    "institution": "University of Limerick",
+    "country_code": "IE",
+    "primary_topic": "Mobile Crowdsensing and Crowdsourcing"
+  },
+  {
+    "doi": "10.1145/2568225.2568279",
+    "year": 2014,
+    "title": "Does latitude hurt while longitude kills? geographical and temporal separation in a large scale software development project",
+    "author": "Patrick Wagstrom",
+    "author_position": "first",
+    "institution": "IBM Research - Austin",
+    "country_code": "US",
+    "primary_topic": "Open Source Software Innovations"
+  },
+  {
+    "doi": "10.1145/2568225.2568279",
+    "year": 2014,
+    "title": "Does latitude hurt while longitude kills? geographical and temporal separation in a large scale software development project",
+    "author": "Subhajit Datta",
+    "author_position": "last",
+    "institution": "Singapore University of Technology and Design",
+    "country_code": "SG",
+    "primary_topic": "Open Source Software Innovations"
+  },
+  {
+    "doi": "10.1145/2568225.2568309",
+    "year": 2014,
+    "title": "A study and toolkit for asynchronous programming in c#",
+    "author": "Semih Okur",
+    "author_position": "first",
+    "institution": "University of Illinois Urbana-Champaign",
+    "country_code": "US",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568309",
+    "year": 2014,
+    "title": "A study and toolkit for asynchronous programming in c#",
+    "author": "David L. Hartveld",
+    "author_position": "middle",
+    "institution": "Delft University of Technology",
+    "country_code": "NL",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568309",
+    "year": 2014,
+    "title": "A study and toolkit for asynchronous programming in c#",
+    "author": "Danny Dig",
+    "author_position": "middle",
+    "institution": "Oregon State University",
+    "country_code": "US",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568309",
+    "year": 2014,
+    "title": "A study and toolkit for asynchronous programming in c#",
+    "author": "Arie van Deursen",
+    "author_position": "last",
+    "institution": "Delft University of Technology",
+    "country_code": "NL",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568298",
+    "year": 2014,
+    "title": "Detecting differences across multiple instances of code clones",
+    "author": "Yun Lin",
+    "author_position": "first",
+    "institution": "Fudan University",
+    "country_code": "CN",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568298",
+    "year": 2014,
+    "title": "Detecting differences across multiple instances of code clones",
+    "author": "Zhenchang Xing",
+    "author_position": "middle",
+    "institution": "Nanyang Technological University",
+    "country_code": "SG",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568298",
+    "year": 2014,
+    "title": "Detecting differences across multiple instances of code clones",
+    "author": "Yinxing Xue",
+    "author_position": "middle",
+    "institution": "National University of Singapore",
+    "country_code": "SG",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568298",
+    "year": 2014,
+    "title": "Detecting differences across multiple instances of code clones",
+    "author": "Yang Liu",
+    "author_position": "middle",
+    "institution": "Nanyang Technological University",
+    "country_code": "SG",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568298",
+    "year": 2014,
+    "title": "Detecting differences across multiple instances of code clones",
+    "author": "Xin Peng",
+    "author_position": "middle",
+    "institution": "Fudan University",
+    "country_code": "CN",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568298",
+    "year": 2014,
+    "title": "Detecting differences across multiple instances of code clones",
+    "author": "Jun Sun",
+    "author_position": "middle",
+    "institution": "Singapore University of Technology and Design",
+    "country_code": "SG",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568298",
+    "year": 2014,
+    "title": "Detecting differences across multiple instances of code clones",
+    "author": "Wenyun Zhao",
+    "author_position": "last",
+    "institution": "Fudan University",
+    "country_code": "CN",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568297",
+    "year": 2014,
+    "title": "SEEDS: a software engineer's energy-optimization decision support framework",
+    "author": "Irene Manotas",
+    "author_position": "first",
+    "institution": "University of Delaware",
+    "country_code": "US",
+    "primary_topic": "Green IT and Sustainability"
+  },
+  {
+    "doi": "10.1145/2568225.2568297",
+    "year": 2014,
+    "title": "SEEDS: a software engineer's energy-optimization decision support framework",
+    "author": "Lori Pollock",
+    "author_position": "middle",
+    "institution": "University of Delaware",
+    "country_code": "US",
+    "primary_topic": "Green IT and Sustainability"
+  },
+  {
+    "doi": "10.1145/2568225.2568297",
+    "year": 2014,
+    "title": "SEEDS: a software engineer's energy-optimization decision support framework",
+    "author": "James Clause",
+    "author_position": "last",
+    "institution": "University of Delaware",
+    "country_code": "US",
+    "primary_topic": "Green IT and Sustainability"
+  },
+  {
+    "doi": "10.1145/2568225.2568239",
+    "year": 2014,
+    "title": "Uncertainty, risk, and information value in software requirements and architecture",
+    "author": "Emmanuel Letier",
+    "author_position": "first",
+    "institution": "University College London",
+    "country_code": "GB",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568239",
+    "year": 2014,
+    "title": "Uncertainty, risk, and information value in software requirements and architecture",
+    "author": "David Stefan",
+    "author_position": "middle",
+    "institution": "University College London",
+    "country_code": "GB",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568239",
+    "year": 2014,
+    "title": "Uncertainty, risk, and information value in software requirements and architecture",
+    "author": "Earl T. Barr",
+    "author_position": "last",
+    "institution": "University College London",
+    "country_code": "GB",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568307",
+    "year": 2014,
+    "title": "Detecting memory leaks through introspective dynamic behavior modelling using machine learning",
+    "author": "Sangho Lee",
+    "author_position": "first",
+    "institution": "Atlanta Technical College",
+    "country_code": "US",
+    "primary_topic": "Security and Verification in Computing"
+  },
+  {
+    "doi": "10.1145/2568225.2568307",
+    "year": 2014,
+    "title": "Detecting memory leaks through introspective dynamic behavior modelling using machine learning",
+    "author": "Sangho Lee",
+    "author_position": "first",
+    "institution": "Georgia Institute of Technology",
+    "country_code": "US",
+    "primary_topic": "Security and Verification in Computing"
+  },
+  {
+    "doi": "10.1145/2568225.2568307",
+    "year": 2014,
+    "title": "Detecting memory leaks through introspective dynamic behavior modelling using machine learning",
+    "author": "Changhee Jung",
+    "author_position": "middle",
+    "institution": "Virginia Tech",
+    "country_code": "US",
+    "primary_topic": "Security and Verification in Computing"
+  },
+  {
+    "doi": "10.1145/2568225.2568307",
+    "year": 2014,
+    "title": "Detecting memory leaks through introspective dynamic behavior modelling using machine learning",
+    "author": "Santosh Pande",
+    "author_position": "last",
+    "institution": "Atlanta Technical College",
+    "country_code": "US",
+    "primary_topic": "Security and Verification in Computing"
+  },
+  {
+    "doi": "10.1145/2568225.2568307",
+    "year": 2014,
+    "title": "Detecting memory leaks through introspective dynamic behavior modelling using machine learning",
+    "author": "Santosh Pande",
+    "author_position": "last",
+    "institution": "Georgia Institute of Technology",
+    "country_code": "US",
+    "primary_topic": "Security and Verification in Computing"
+  },
+  {
+    "doi": "10.1145/2568225.2568278",
+    "year": 2014,
+    "title": "Code coverage for suite evaluation by developers",
+    "author": "Rahul Gopinath",
+    "author_position": "first",
+    "institution": "Oregon State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568278",
+    "year": 2014,
+    "title": "Code coverage for suite evaluation by developers",
+    "author": "Carlos Jensen",
+    "author_position": "middle",
+    "institution": "Oregon State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568278",
+    "year": 2014,
+    "title": "Code coverage for suite evaluation by developers",
+    "author": "Alex Groce",
+    "author_position": "last",
+    "institution": "Oregon State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568235",
+    "year": 2014,
+    "title": "Requirements fixation",
+    "author": "Rahul Mohanani",
+    "author_position": "first",
+    "institution": "Lancaster University",
+    "country_code": "GB",
+    "primary_topic": "Software Engineering Techniques and Practices"
+  },
+  {
+    "doi": "10.1145/2568225.2568235",
+    "year": 2014,
+    "title": "Requirements fixation",
+    "author": "Paul Ralph",
+    "author_position": "middle",
+    "institution": "Lancaster University",
+    "country_code": "GB",
+    "primary_topic": "Software Engineering Techniques and Practices"
+  },
+  {
+    "doi": "10.1145/2568225.2568235",
+    "year": 2014,
+    "title": "Requirements fixation",
+    "author": "Benjamin Shreeve",
+    "author_position": "last",
+    "institution": "Lancaster University",
+    "country_code": "GB",
+    "primary_topic": "Software Engineering Techniques and Practices"
+  },
+  {
+    "doi": "10.1145/2568225.2568324",
+    "year": 2014,
+    "title": "A critical review of \"automatic patch generation learned from human-written patches\": essay on the problem statement and the evaluation of automatic software repair",
+    "author": "Martin Monperrus",
+    "author_position": "first",
+    "institution": "Universit\u00e9 de Lille",
+    "country_code": "FR",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568324",
+    "year": 2014,
+    "title": "A critical review of \"automatic patch generation learned from human-written patches\": essay on the problem statement and the evaluation of automatic software repair",
+    "author": "Martin Monperrus",
+    "author_position": "first",
+    "institution": "Laboratoires Spiral (France)",
+    "country_code": "FR",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568324",
+    "year": 2014,
+    "title": "A critical review of \"automatic patch generation learned from human-written patches\": essay on the problem statement and the evaluation of automatic software repair",
+    "author": "Martin Monperrus",
+    "author_position": "first",
+    "institution": "Institut national de recherche en informatique et en automatique",
+    "country_code": "FR",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568289",
+    "year": 2014,
+    "title": "Feature maintenance with emergent interfaces",
+    "author": "M\u00e1rcio Ribeiro",
+    "author_position": "first",
+    "institution": "Universidade Federal de Alagoas",
+    "country_code": "BR",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568289",
+    "year": 2014,
+    "title": "Feature maintenance with emergent interfaces",
+    "author": "Paulo Borba",
+    "author_position": "middle",
+    "institution": "Universidade Federal de Pernambuco",
+    "country_code": "BR",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568289",
+    "year": 2014,
+    "title": "Feature maintenance with emergent interfaces",
+    "author": "Christian K\u00e4stner",
+    "author_position": "last",
+    "institution": "Carnegie Mellon University",
+    "country_code": "US",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568230",
+    "year": 2014,
+    "title": "Integrating adaptive user interface capabilities in enterprise applications",
+    "author": "Pierre A. Akiki",
+    "author_position": "first",
+    "institution": "The Open University",
+    "country_code": "GB",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568230",
+    "year": 2014,
+    "title": "Integrating adaptive user interface capabilities in enterprise applications",
+    "author": "Arosha K. Bandara",
+    "author_position": "middle",
+    "institution": "The Open University",
+    "country_code": "GB",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568230",
+    "year": 2014,
+    "title": "Integrating adaptive user interface capabilities in enterprise applications",
+    "author": "Yijun Yu",
+    "author_position": "last",
+    "institution": "The Open University",
+    "country_code": "GB",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568237",
+    "year": 2014,
+    "title": "Verifying component and connector models against crosscutting structural views",
+    "author": "Shahar Maoz",
+    "author_position": "first",
+    "institution": "Tel Aviv University",
+    "country_code": "IL",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568237",
+    "year": 2014,
+    "title": "Verifying component and connector models against crosscutting structural views",
+    "author": "Jan Oliver Ringert",
+    "author_position": "middle",
+    "institution": "RWTH Aachen University",
+    "country_code": "DE",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568237",
+    "year": 2014,
+    "title": "Verifying component and connector models against crosscutting structural views",
+    "author": "Bernhard Rumpe\u22c6",
+    "author_position": "last",
+    "institution": "RWTH Aachen University",
+    "country_code": "DE",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568231",
+    "year": 2014,
+    "title": "Controlled modeling environment using flexibly-formatted spreadsheets",
+    "author": "Hisashi Miyashita",
+    "author_position": "first",
+    "institution": "IBM (United States)",
+    "country_code": "US",
+    "primary_topic": "Spreadsheets and End-User Computing"
+  },
+  {
+    "doi": "10.1145/2568225.2568231",
+    "year": 2014,
+    "title": "Controlled modeling environment using flexibly-formatted spreadsheets",
+    "author": "Hideki Tai",
+    "author_position": "middle",
+    "institution": "IBM Research - Tokyo",
+    "country_code": "JP",
+    "primary_topic": "Spreadsheets and End-User Computing"
+  },
+  {
+    "doi": "10.1145/2568225.2568231",
+    "year": 2014,
+    "title": "Controlled modeling environment using flexibly-formatted spreadsheets",
+    "author": "Shunichi Amano",
+    "author_position": "last",
+    "institution": "IBM Research - Tokyo",
+    "country_code": "JP",
+    "primary_topic": "Spreadsheets and End-User Computing"
+  },
+  {
+    "doi": "10.1145/2568225.2568262",
+    "year": 2014,
+    "title": "Easing software component repository evolution",
+    "author": "J\u00e9r\u00f4me Vouillon",
+    "author_position": "first",
+    "institution": "Centre National de la Recherche Scientifique",
+    "country_code": "FR",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568262",
+    "year": 2014,
+    "title": "Easing software component repository evolution",
+    "author": "J\u00e9r\u00f4me Vouillon",
+    "author_position": "first",
+    "institution": "Universit\u00e9 Paris Cit\u00e9",
+    "country_code": "FR",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568262",
+    "year": 2014,
+    "title": "Easing software component repository evolution",
+    "author": "J\u00e9r\u00f4me Vouillon",
+    "author_position": "first",
+    "institution": "D\u00e9l\u00e9gation Paris 7",
+    "country_code": "FR",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568262",
+    "year": 2014,
+    "title": "Easing software component repository evolution",
+    "author": "Mehdi Dogguy",
+    "author_position": "middle",
+    "institution": "\u00c9lectricit\u00e9 de France (France)",
+    "country_code": "FR",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568262",
+    "year": 2014,
+    "title": "Easing software component repository evolution",
+    "author": "Roberto Di Cosmo",
+    "author_position": "last",
+    "institution": "D\u00e9l\u00e9gation Paris 7",
+    "country_code": "FR",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568262",
+    "year": 2014,
+    "title": "Easing software component repository evolution",
+    "author": "Roberto Di Cosmo",
+    "author_position": "last",
+    "institution": "Institut national de recherche en informatique et en automatique",
+    "country_code": "FR",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568262",
+    "year": 2014,
+    "title": "Easing software component repository evolution",
+    "author": "Roberto Di Cosmo",
+    "author_position": "last",
+    "institution": "Centre National de la Recherche Scientifique",
+    "country_code": "FR",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568262",
+    "year": 2014,
+    "title": "Easing software component repository evolution",
+    "author": "Roberto Di Cosmo",
+    "author_position": "last",
+    "institution": "Universit\u00e9 Paris Cit\u00e9",
+    "country_code": "FR",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568295",
+    "year": 2014,
+    "title": "Mining billions of AST nodes to study actual and potential usage of Java language features",
+    "author": "Robert Dyer",
+    "author_position": "first",
+    "institution": "Iowa State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568295",
+    "year": 2014,
+    "title": "Mining billions of AST nodes to study actual and potential usage of Java language features",
+    "author": "Hridesh Rajan",
+    "author_position": "middle",
+    "institution": "Iowa State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568295",
+    "year": 2014,
+    "title": "Mining billions of AST nodes to study actual and potential usage of Java language features",
+    "author": "Hoan Anh Nguyen",
+    "author_position": "middle",
+    "institution": "Iowa State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568295",
+    "year": 2014,
+    "title": "Mining billions of AST nodes to study actual and potential usage of Java language features",
+    "author": "Tien N. Nguyen",
+    "author_position": "last",
+    "institution": "Iowa State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568322",
+    "year": 2014,
+    "title": "How do centralized and distributed version control systems impact software changes?",
+    "author": "Caius Brindescu",
+    "author_position": "first",
+    "institution": "Oregon State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568322",
+    "year": 2014,
+    "title": "How do centralized and distributed version control systems impact software changes?",
+    "author": "Mihai Codoban",
+    "author_position": "middle",
+    "institution": "Oregon State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568322",
+    "year": 2014,
+    "title": "How do centralized and distributed version control systems impact software changes?",
+    "author": "Sergii Shmarkatiuk",
+    "author_position": "middle",
+    "institution": "Oregon State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568322",
+    "year": 2014,
+    "title": "How do centralized and distributed version control systems impact software changes?",
+    "author": "Danny Dig",
+    "author_position": "last",
+    "institution": "Oregon State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568243",
+    "year": 2014,
+    "title": "Reviser: efficiently updating IDE-/IFDS-based data-flow analyses in response to incremental program changes",
+    "author": "Steven Arzt",
+    "author_position": "first",
+    "institution": "Technical University of Darmstadt",
+    "country_code": "DE",
+    "primary_topic": "Security and Verification in Computing"
+  },
+  {
+    "doi": "10.1145/2568225.2568243",
+    "year": 2014,
+    "title": "Reviser: efficiently updating IDE-/IFDS-based data-flow analyses in response to incremental program changes",
+    "author": "Eric Bodden",
+    "author_position": "last",
+    "institution": "Technical University of Darmstadt",
+    "country_code": "DE",
+    "primary_topic": "Security and Verification in Computing"
+  },
+  {
+    "doi": "10.1145/2568225.2568243",
+    "year": 2014,
+    "title": "Reviser: efficiently updating IDE-/IFDS-based data-flow analyses in response to incremental program changes",
+    "author": "Eric Bodden",
+    "author_position": "last",
+    "institution": "Fraunhofer Institute for Secure Information Technology",
+    "country_code": "DE",
+    "primary_topic": "Security and Verification in Computing"
+  },
+  {
+    "doi": "10.1145/2568225.2568306",
+    "year": 2014,
+    "title": "Towards efficient optimization in package management systems",
+    "author": "Alexey Ignatiev",
+    "author_position": "first",
+    "institution": "Instituto de Engenharia de Sistemas e Computadores Investiga\u00e7\u00e3o e Desenvolvimento",
+    "country_code": "PT",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568306",
+    "year": 2014,
+    "title": "Towards efficient optimization in package management systems",
+    "author": "Mikol\u00e1\u0161 Janota",
+    "author_position": "middle",
+    "institution": "Instituto de Engenharia de Sistemas e Computadores Investiga\u00e7\u00e3o e Desenvolvimento",
+    "country_code": "PT",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568306",
+    "year": 2014,
+    "title": "Towards efficient optimization in package management systems",
+    "author": "Jo\u00e3o Marques\u2010Silva",
+    "author_position": "last",
+    "institution": "Instituto de Engenharia de Sistemas e Computadores Investiga\u00e7\u00e3o e Desenvolvimento",
+    "country_code": "PT",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568306",
+    "year": 2014,
+    "title": "Towards efficient optimization in package management systems",
+    "author": "Jo\u00e3o Marques\u2010Silva",
+    "author_position": "last",
+    "institution": "University College Dublin",
+    "country_code": "IE",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568304",
+    "year": 2014,
+    "title": "Patch verification via multiversion interprocedural control flow graphs",
+    "author": "Wei Le",
+    "author_position": "first",
+    "institution": "Rochester Institute of Technology",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568304",
+    "year": 2014,
+    "title": "Patch verification via multiversion interprocedural control flow graphs",
+    "author": "Shannon D. Pattison",
+    "author_position": "last",
+    "institution": "Rochester Institute of Technology",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568300",
+    "year": 2014,
+    "title": "Exploring variability-aware execution for testing plugin-based web applications",
+    "author": "Hung Viet Nguyen",
+    "author_position": "first",
+    "institution": "Iowa State University",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568300",
+    "year": 2014,
+    "title": "Exploring variability-aware execution for testing plugin-based web applications",
+    "author": "Christian K\u00e4stner",
+    "author_position": "middle",
+    "institution": "Carnegie Mellon University",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568300",
+    "year": 2014,
+    "title": "Exploring variability-aware execution for testing plugin-based web applications",
+    "author": "Tien N. Nguyen",
+    "author_position": "last",
+    "institution": "Iowa State University",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568256",
+    "year": 2014,
+    "title": "Perturbation analysis of stochastic systems with empirical distribution parameters",
+    "author": "Guoxin Su",
+    "author_position": "first",
+    "institution": "National University of Singapore",
+    "country_code": "SG",
+    "primary_topic": "Formal Methods in Verification"
+  },
+  {
+    "doi": "10.1145/2568225.2568256",
+    "year": 2014,
+    "title": "Perturbation analysis of stochastic systems with empirical distribution parameters",
+    "author": "David S. Rosenblum",
+    "author_position": "last",
+    "institution": "National University of Singapore",
+    "country_code": "SG",
+    "primary_topic": "Formal Methods in Verification"
+  },
+  {
+    "doi": "10.1145/2568225.2568269",
+    "year": 2014,
+    "title": "Comparing static bug finders and statistical prediction",
+    "author": "Foyzur Rahman",
+    "author_position": "first",
+    "institution": "University of California, Davis",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568269",
+    "year": 2014,
+    "title": "Comparing static bug finders and statistical prediction",
+    "author": "Sameer S. Khatri",
+    "author_position": "middle",
+    "institution": "University of California, Davis",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568269",
+    "year": 2014,
+    "title": "Comparing static bug finders and statistical prediction",
+    "author": "Earl T. Barr",
+    "author_position": "middle",
+    "institution": "University College London",
+    "country_code": "GB",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568269",
+    "year": 2014,
+    "title": "Comparing static bug finders and statistical prediction",
+    "author": "Pr\u00e9mkumar D\u00e9vanbu",
+    "author_position": "last",
+    "institution": "University of California, Davis",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568271",
+    "year": 2014,
+    "title": "Coverage is not strongly correlated with test suite effectiveness",
+    "author": "Laura Inozemtseva",
+    "author_position": "first",
+    "institution": "University of Waterloo",
+    "country_code": "CA",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568271",
+    "year": 2014,
+    "title": "Coverage is not strongly correlated with test suite effectiveness",
+    "author": "Reid Holmes",
+    "author_position": "last",
+    "institution": "University of Waterloo",
+    "country_code": "CA",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568240",
+    "year": 2014,
+    "title": "Distilling privacy requirements for mobile applications",
+    "author": "Keerthi Thomas",
+    "author_position": "first",
+    "institution": "The Open University",
+    "country_code": "GB",
+    "primary_topic": "Privacy, Security, and Data Protection"
+  },
+  {
+    "doi": "10.1145/2568225.2568240",
+    "year": 2014,
+    "title": "Distilling privacy requirements for mobile applications",
+    "author": "Arosha K. Bandara",
+    "author_position": "middle",
+    "institution": "The Open University",
+    "country_code": "GB",
+    "primary_topic": "Privacy, Security, and Data Protection"
+  },
+  {
+    "doi": "10.1145/2568225.2568240",
+    "year": 2014,
+    "title": "Distilling privacy requirements for mobile applications",
+    "author": "Blaine Price",
+    "author_position": "middle",
+    "institution": "The Open University",
+    "country_code": "GB",
+    "primary_topic": "Privacy, Security, and Data Protection"
+  },
+  {
+    "doi": "10.1145/2568225.2568240",
+    "year": 2014,
+    "title": "Distilling privacy requirements for mobile applications",
+    "author": "Bashar Nuseibeh",
+    "author_position": "last",
+    "institution": "University of Limerick",
+    "country_code": "IE",
+    "primary_topic": "Privacy, Security, and Data Protection"
+  },
+  {
+    "doi": "10.1145/2568225.2568323",
+    "year": 2014,
+    "title": "Automated goal operationalisation based on interpolation and SAT solving",
+    "author": "Renzo Degiovanni",
+    "author_position": "first",
+    "institution": "National University of R\u00edo Cuarto",
+    "country_code": "AR",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568323",
+    "year": 2014,
+    "title": "Automated goal operationalisation based on interpolation and SAT solving",
+    "author": "Dalal Alrajeh",
+    "author_position": "middle",
+    "institution": "Imperial College London",
+    "country_code": "GB",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568323",
+    "year": 2014,
+    "title": "Automated goal operationalisation based on interpolation and SAT solving",
+    "author": "Nazareno Aguirre",
+    "author_position": "middle",
+    "institution": "National University of R\u00edo Cuarto",
+    "country_code": "AR",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568323",
+    "year": 2014,
+    "title": "Automated goal operationalisation based on interpolation and SAT solving",
+    "author": "Sebasti\u00e1n Uchitel",
+    "author_position": "last",
+    "institution": "University of Buenos Aires",
+    "country_code": "AR",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568323",
+    "year": 2014,
+    "title": "Automated goal operationalisation based on interpolation and SAT solving",
+    "author": "Sebasti\u00e1n Uchitel",
+    "author_position": "last",
+    "institution": "Imperial College London",
+    "country_code": "GB",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568246",
+    "year": 2014,
+    "title": "Inferring models of concurrent systems from logs of their behavior with CSight",
+    "author": "Ivan Beschastnikh",
+    "author_position": "first",
+    "institution": "University of British Columbia",
+    "country_code": "CA",
+    "primary_topic": "Software System Performance and Reliability"
+  },
+  {
+    "doi": "10.1145/2568225.2568246",
+    "year": 2014,
+    "title": "Inferring models of concurrent systems from logs of their behavior with CSight",
+    "author": "Yuriy Brun",
+    "author_position": "middle",
+    "institution": "University of Massachusetts Amherst",
+    "country_code": "US",
+    "primary_topic": "Software System Performance and Reliability"
+  },
+  {
+    "doi": "10.1145/2568225.2568246",
+    "year": 2014,
+    "title": "Inferring models of concurrent systems from logs of their behavior with CSight",
+    "author": "Yuriy Brun",
+    "author_position": "middle",
+    "institution": "University of Massachusetts Boston",
+    "country_code": "US",
+    "primary_topic": "Software System Performance and Reliability"
+  },
+  {
+    "doi": "10.1145/2568225.2568246",
+    "year": 2014,
+    "title": "Inferring models of concurrent systems from logs of their behavior with CSight",
+    "author": "Michael D. Ernst",
+    "author_position": "middle",
+    "institution": "University of Washington",
+    "country_code": "US",
+    "primary_topic": "Software System Performance and Reliability"
+  },
+  {
+    "doi": "10.1145/2568225.2568246",
+    "year": 2014,
+    "title": "Inferring models of concurrent systems from logs of their behavior with CSight",
+    "author": "Arvind Krishnamurthy",
+    "author_position": "last",
+    "institution": "University of Washington",
+    "country_code": "US",
+    "primary_topic": "Software System Performance and Reliability"
+  },
+  {
+    "doi": "10.1145/2568225.2568287",
+    "year": 2014,
+    "title": "Cross-checking oracles from intrinsic software redundancy",
+    "author": "Antonio Carzaniga",
+    "author_position": "first",
+    "institution": "Universit\u00e0 della Svizzera italiana",
+    "country_code": "CH",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568287",
+    "year": 2014,
+    "title": "Cross-checking oracles from intrinsic software redundancy",
+    "author": "Alberto Goffi",
+    "author_position": "middle",
+    "institution": "Universit\u00e0 della Svizzera italiana",
+    "country_code": "CH",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568287",
+    "year": 2014,
+    "title": "Cross-checking oracles from intrinsic software redundancy",
+    "author": "Alessandra Gorla",
+    "author_position": "middle",
+    "institution": "Saarland University",
+    "country_code": "DE",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568287",
+    "year": 2014,
+    "title": "Cross-checking oracles from intrinsic software redundancy",
+    "author": "Andrea Mattavelli",
+    "author_position": "middle",
+    "institution": "Universit\u00e0 della Svizzera italiana",
+    "country_code": "CH",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568287",
+    "year": 2014,
+    "title": "Cross-checking oracles from intrinsic software redundancy",
+    "author": "Mauro Pezz\u00e8",
+    "author_position": "last",
+    "institution": "University of Milano-Bicocca",
+    "country_code": "IT",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568253",
+    "year": 2014,
+    "title": "Symbolic assume-guarantee reasoning through BDD learning",
+    "author": "Fei He",
+    "author_position": "first",
+    "institution": "Tsinghua University",
+    "country_code": "CN",
+    "primary_topic": "Formal Methods in Verification"
+  },
+  {
+    "doi": "10.1145/2568225.2568253",
+    "year": 2014,
+    "title": "Symbolic assume-guarantee reasoning through BDD learning",
+    "author": "Bow-Yaw Wang",
+    "author_position": "middle",
+    "institution": "Academia Sinica",
+    "country_code": "TW",
+    "primary_topic": "Formal Methods in Verification"
+  },
+  {
+    "doi": "10.1145/2568225.2568253",
+    "year": 2014,
+    "title": "Symbolic assume-guarantee reasoning through BDD learning",
+    "author": "Liangze Yin",
+    "author_position": "middle",
+    "institution": "Tsinghua University",
+    "country_code": "CN",
+    "primary_topic": "Formal Methods in Verification"
+  },
+  {
+    "doi": "10.1145/2568225.2568253",
+    "year": 2014,
+    "title": "Symbolic assume-guarantee reasoning through BDD learning",
+    "author": "Lei Zhu",
+    "author_position": "last",
+    "institution": "Tsinghua University",
+    "country_code": "CN",
+    "primary_topic": "Formal Methods in Verification"
+  },
+  {
+    "doi": "10.1145/2568225.2568277",
+    "year": 2014,
+    "title": "Unleashing concurrency for irregular data structures",
+    "author": "Peng Liu",
+    "author_position": "first",
+    "institution": "Hong Kong University of Science and Technology",
+    "country_code": "HK",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568277",
+    "year": 2014,
+    "title": "Unleashing concurrency for irregular data structures",
+    "author": "Peng Liu",
+    "author_position": "first",
+    "institution": "Wuhan University",
+    "country_code": "CN",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568277",
+    "year": 2014,
+    "title": "Unleashing concurrency for irregular data structures",
+    "author": "Peng Liu",
+    "author_position": "first",
+    "institution": "University of Hong Kong",
+    "country_code": "HK",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568277",
+    "year": 2014,
+    "title": "Unleashing concurrency for irregular data structures",
+    "author": "Charles Zhang",
+    "author_position": "last",
+    "institution": "Hong Kong University of Science and Technology",
+    "country_code": "HK",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568248",
+    "year": 2014,
+    "title": "Unit test virtualization with VMVM",
+    "author": "Jonathan Bell",
+    "author_position": "first",
+    "institution": "Columbia University",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568248",
+    "year": 2014,
+    "title": "Unit test virtualization with VMVM",
+    "author": "Gail E. Kaiser",
+    "author_position": "last",
+    "institution": "Columbia University",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568268",
+    "year": 2014,
+    "title": "Understanding JavaScript event-based interactions",
+    "author": "Saba Alimadadi",
+    "author_position": "first",
+    "institution": "University of British Columbia",
+    "country_code": "CA",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568268",
+    "year": 2014,
+    "title": "Understanding JavaScript event-based interactions",
+    "author": "Sheldon Sequeira",
+    "author_position": "middle",
+    "institution": "University of British Columbia",
+    "country_code": "CA",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568268",
+    "year": 2014,
+    "title": "Understanding JavaScript event-based interactions",
+    "author": "Ali Mesbah",
+    "author_position": "middle",
+    "institution": "University of British Columbia",
+    "country_code": "CA",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568268",
+    "year": 2014,
+    "title": "Understanding JavaScript event-based interactions",
+    "author": "Karthik Pattabiraman",
+    "author_position": "last",
+    "institution": "University of British Columbia",
+    "country_code": "CA",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568236",
+    "year": 2014,
+    "title": "CARE: cache guided deterministic replay for concurrent Java programs",
+    "author": "Yanyan Jiang",
+    "author_position": "first",
+    "institution": "Nanjing University",
+    "country_code": "CN",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568236",
+    "year": 2014,
+    "title": "CARE: cache guided deterministic replay for concurrent Java programs",
+    "author": "Tianxiao Gu",
+    "author_position": "middle",
+    "institution": "Nanjing University",
+    "country_code": "CN",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568236",
+    "year": 2014,
+    "title": "CARE: cache guided deterministic replay for concurrent Java programs",
+    "author": "Chang Xu",
+    "author_position": "middle",
+    "institution": "Nanjing University",
+    "country_code": "CN",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568236",
+    "year": 2014,
+    "title": "CARE: cache guided deterministic replay for concurrent Java programs",
+    "author": "Xiaoxing Ma",
+    "author_position": "middle",
+    "institution": "Nanjing University",
+    "country_code": "CN",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568236",
+    "year": 2014,
+    "title": "CARE: cache guided deterministic replay for concurrent Java programs",
+    "author": "Jian L\u00fc",
+    "author_position": "last",
+    "institution": "Nanjing University",
+    "country_code": "CN",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568318",
+    "year": 2014,
+    "title": "How do professionals perceive legacy systems and software modernization?",
+    "author": "Ravi Khadka",
+    "author_position": "first",
+    "institution": "Utrecht University",
+    "country_code": "NL",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568318",
+    "year": 2014,
+    "title": "How do professionals perceive legacy systems and software modernization?",
+    "author": "Belfrit V. Batlajery",
+    "author_position": "middle",
+    "institution": "Utrecht University",
+    "country_code": "NL",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568318",
+    "year": 2014,
+    "title": "How do professionals perceive legacy systems and software modernization?",
+    "author": "Amir Saeidi",
+    "author_position": "middle",
+    "institution": "Utrecht University",
+    "country_code": "NL",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568318",
+    "year": 2014,
+    "title": "How do professionals perceive legacy systems and software modernization?",
+    "author": "Slinger Jansen",
+    "author_position": "middle",
+    "institution": "Utrecht University",
+    "country_code": "NL",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568318",
+    "year": 2014,
+    "title": "How do professionals perceive legacy systems and software modernization?",
+    "author": "Jurriaan Hage",
+    "author_position": "last",
+    "institution": "Utrecht University",
+    "country_code": "NL",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568252",
+    "year": 2014,
+    "title": "Understanding understanding source code with functional magnetic resonance imaging",
+    "author": "Janet Siegmund",
+    "author_position": "first",
+    "institution": "University of Passau",
+    "country_code": "DE",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568252",
+    "year": 2014,
+    "title": "Understanding understanding source code with functional magnetic resonance imaging",
+    "author": "Christian K\u00e4stner",
+    "author_position": "middle",
+    "institution": "Carnegie Mellon University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568252",
+    "year": 2014,
+    "title": "Understanding understanding source code with functional magnetic resonance imaging",
+    "author": "Sven Apel",
+    "author_position": "middle",
+    "institution": "University of Passau",
+    "country_code": "DE",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568252",
+    "year": 2014,
+    "title": "Understanding understanding source code with functional magnetic resonance imaging",
+    "author": "Chris Parnin",
+    "author_position": "middle",
+    "institution": "Georgia Institute of Technology",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568252",
+    "year": 2014,
+    "title": "Understanding understanding source code with functional magnetic resonance imaging",
+    "author": "Chris Parnin",
+    "author_position": "middle",
+    "institution": "Atlanta Technical College",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568252",
+    "year": 2014,
+    "title": "Understanding understanding source code with functional magnetic resonance imaging",
+    "author": "Anja Bethmann",
+    "author_position": "middle",
+    "institution": "Leibniz Institute for Neurobiology",
+    "country_code": "DE",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568252",
+    "year": 2014,
+    "title": "Understanding understanding source code with functional magnetic resonance imaging",
+    "author": "Thomas Leich",
+    "author_position": "middle",
+    "institution": null,
+    "country_code": null,
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568252",
+    "year": 2014,
+    "title": "Understanding understanding source code with functional magnetic resonance imaging",
+    "author": "Gunter Saake",
+    "author_position": "middle",
+    "institution": "University Hospital Magdeburg",
+    "country_code": "DE",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568252",
+    "year": 2014,
+    "title": "Understanding understanding source code with functional magnetic resonance imaging",
+    "author": "Andr\u00e9 Brechmann",
+    "author_position": "last",
+    "institution": "Leibniz Institute for Neurobiology",
+    "country_code": "DE",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568316",
+    "year": 2014,
+    "title": "Is spreadsheet ambiguity harmful? detecting and repairing spreadsheet smells due to ambiguous computation",
+    "author": "Wensheng Dou",
+    "author_position": "first",
+    "institution": "Chinese Academy of Sciences",
+    "country_code": "CN",
+    "primary_topic": "Spreadsheets and End-User Computing"
+  },
+  {
+    "doi": "10.1145/2568225.2568316",
+    "year": 2014,
+    "title": "Is spreadsheet ambiguity harmful? detecting and repairing spreadsheet smells due to ambiguous computation",
+    "author": "Wensheng Dou",
+    "author_position": "first",
+    "institution": "Institute of Software",
+    "country_code": "CN",
+    "primary_topic": "Spreadsheets and End-User Computing"
+  },
+  {
+    "doi": "10.1145/2568225.2568316",
+    "year": 2014,
+    "title": "Is spreadsheet ambiguity harmful? detecting and repairing spreadsheet smells due to ambiguous computation",
+    "author": "Shing-Chi Cheung",
+    "author_position": "middle",
+    "institution": "Hong Kong University of Science and Technology",
+    "country_code": "HK",
+    "primary_topic": "Spreadsheets and End-User Computing"
+  },
+  {
+    "doi": "10.1145/2568225.2568316",
+    "year": 2014,
+    "title": "Is spreadsheet ambiguity harmful? detecting and repairing spreadsheet smells due to ambiguous computation",
+    "author": "Jun Wei",
+    "author_position": "last",
+    "institution": "Chinese Academy of Sciences",
+    "country_code": "CN",
+    "primary_topic": "Spreadsheets and End-User Computing"
+  },
+  {
+    "doi": "10.1145/2568225.2568316",
+    "year": 2014,
+    "title": "Is spreadsheet ambiguity harmful? detecting and repairing spreadsheet smells due to ambiguous computation",
+    "author": "Jun Wei",
+    "author_position": "last",
+    "institution": "Institute of Software",
+    "country_code": "CN",
+    "primary_topic": "Spreadsheets and End-User Computing"
+  },
+  {
+    "doi": "10.1145/2568225.2568244",
+    "year": 2014,
+    "title": "Us and them: a study of privacy requirements across north america, asia, and europe",
+    "author": "Swapneel Sheth",
+    "author_position": "first",
+    "institution": "Columbia University",
+    "country_code": "US",
+    "primary_topic": "Privacy, Security, and Data Protection"
+  },
+  {
+    "doi": "10.1145/2568225.2568244",
+    "year": 2014,
+    "title": "Us and them: a study of privacy requirements across north america, asia, and europe",
+    "author": "Gail E. Kaiser",
+    "author_position": "middle",
+    "institution": "Columbia University",
+    "country_code": "US",
+    "primary_topic": "Privacy, Security, and Data Protection"
+  },
+  {
+    "doi": "10.1145/2568225.2568244",
+    "year": 2014,
+    "title": "Us and them: a study of privacy requirements across north america, asia, and europe",
+    "author": "Walid Maalej",
+    "author_position": "last",
+    "institution": "Universit\u00e4t Hamburg",
+    "country_code": "DE",
+    "primary_topic": "Privacy, Security, and Data Protection"
+  },
+  {
+    "doi": "10.1145/2568225.2568234",
+    "year": 2014,
+    "title": "Mining behavior models from user-intensive web applications",
+    "author": "Carlo Ghezzi",
+    "author_position": "first",
+    "institution": "Politecnico di Milano",
+    "country_code": "IT",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568234",
+    "year": 2014,
+    "title": "Mining behavior models from user-intensive web applications",
+    "author": "Mauro Pezz\u00e8",
+    "author_position": "middle",
+    "institution": "Universit\u00e0 della Svizzera italiana",
+    "country_code": "CH",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568234",
+    "year": 2014,
+    "title": "Mining behavior models from user-intensive web applications",
+    "author": "Michele Sama",
+    "author_position": "middle",
+    "institution": null,
+    "country_code": null,
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568234",
+    "year": 2014,
+    "title": "Mining behavior models from user-intensive web applications",
+    "author": "Giordano Tamburrelli",
+    "author_position": "last",
+    "institution": "Universit\u00e0 della Svizzera italiana",
+    "country_code": "CH",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568274",
+    "year": 2014,
+    "title": "Understanding and improving software build teams",
+    "author": "Shaun Phillips",
+    "author_position": "first",
+    "institution": "University of Calgary",
+    "country_code": "CA",
+    "primary_topic": "Software Engineering Techniques and Practices"
+  },
+  {
+    "doi": "10.1145/2568225.2568274",
+    "year": 2014,
+    "title": "Understanding and improving software build teams",
+    "author": "Thomas Zimmermann",
+    "author_position": "middle",
+    "institution": "Microsoft (United States)",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Techniques and Practices"
+  },
+  {
+    "doi": "10.1145/2568225.2568274",
+    "year": 2014,
+    "title": "Understanding and improving software build teams",
+    "author": "Christian Bird",
+    "author_position": "last",
+    "institution": "Microsoft (United States)",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Techniques and Practices"
+  },
+  {
+    "doi": "10.1145/2568225.2568311",
+    "year": 2014,
+    "title": "Automated memory leak detection for production use",
+    "author": "Changhee Jung",
+    "author_position": "first",
+    "institution": "Virginia Tech",
+    "country_code": "US",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568311",
+    "year": 2014,
+    "title": "Automated memory leak detection for production use",
+    "author": "Sang-Ho Lee",
+    "author_position": "middle",
+    "institution": "Atlanta Technical College",
+    "country_code": "US",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568311",
+    "year": 2014,
+    "title": "Automated memory leak detection for production use",
+    "author": "Sang-Ho Lee",
+    "author_position": "middle",
+    "institution": "Georgia Institute of Technology",
+    "country_code": "US",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568311",
+    "year": 2014,
+    "title": "Automated memory leak detection for production use",
+    "author": "Easwaran Raman",
+    "author_position": "middle",
+    "institution": "Google (United States)",
+    "country_code": "US",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568311",
+    "year": 2014,
+    "title": "Automated memory leak detection for production use",
+    "author": "Santosh Pande",
+    "author_position": "last",
+    "institution": "Atlanta Technical College",
+    "country_code": "US",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568311",
+    "year": 2014,
+    "title": "Automated memory leak detection for production use",
+    "author": "Santosh Pande",
+    "author_position": "last",
+    "institution": "Georgia Institute of Technology",
+    "country_code": "US",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568312",
+    "year": 2014,
+    "title": "ConLock: a constraint-based approach to dynamic checking on deadlocks in multithreaded programs",
+    "author": "Yan Cai",
+    "author_position": "first",
+    "institution": "City University of Hong Kong",
+    "country_code": "HK",
+    "primary_topic": "Radiation Effects in Electronics"
+  },
+  {
+    "doi": "10.1145/2568225.2568312",
+    "year": 2014,
+    "title": "ConLock: a constraint-based approach to dynamic checking on deadlocks in multithreaded programs",
+    "author": "Shangru Wu",
+    "author_position": "middle",
+    "institution": "City University of Hong Kong",
+    "country_code": "HK",
+    "primary_topic": "Radiation Effects in Electronics"
+  },
+  {
+    "doi": "10.1145/2568225.2568312",
+    "year": 2014,
+    "title": "ConLock: a constraint-based approach to dynamic checking on deadlocks in multithreaded programs",
+    "author": "W. K. Chan",
+    "author_position": "last",
+    "institution": "City University of Hong Kong",
+    "country_code": "HK",
+    "primary_topic": "Radiation Effects in Electronics"
+  },
+  {
+    "doi": "10.1145/2568225.2568255",
+    "year": 2014,
+    "title": "Programmers' build errors: a case study (at google)",
+    "author": "Hyunmin Seo",
+    "author_position": "first",
+    "institution": "Hong Kong University of Science and Technology",
+    "country_code": "HK",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568255",
+    "year": 2014,
+    "title": "Programmers' build errors: a case study (at google)",
+    "author": "Caitlin Sadowski",
+    "author_position": "middle",
+    "institution": "Google (United States)",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568255",
+    "year": 2014,
+    "title": "Programmers' build errors: a case study (at google)",
+    "author": "Sebastian Elbaum",
+    "author_position": "middle",
+    "institution": "University of Nebraska\u2013Lincoln",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568255",
+    "year": 2014,
+    "title": "Programmers' build errors: a case study (at google)",
+    "author": "Edward Aftandilian",
+    "author_position": "middle",
+    "institution": "Google (United States)",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568255",
+    "year": 2014,
+    "title": "Programmers' build errors: a case study (at google)",
+    "author": "Robert W. Bowdidge",
+    "author_position": "last",
+    "institution": "Google (United States)",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568303",
+    "year": 2014,
+    "title": "Data-guided repair of selection statements",
+    "author": "Divya Gopinath",
+    "author_position": "first",
+    "institution": "The University of Texas at Austin",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568303",
+    "year": 2014,
+    "title": "Data-guided repair of selection statements",
+    "author": "Sarfraz Khurshid",
+    "author_position": "middle",
+    "institution": "The University of Texas at Austin",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568303",
+    "year": 2014,
+    "title": "Data-guided repair of selection statements",
+    "author": "Diptikalyan Saha",
+    "author_position": "middle",
+    "institution": "IBM Research - India",
+    "country_code": "IN",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568303",
+    "year": 2014,
+    "title": "Data-guided repair of selection statements",
+    "author": "Satish Chandra",
+    "author_position": "last",
+    "institution": "Samsung (United States)",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568242",
+    "year": 2014,
+    "title": "Interpolated n-grams for model based testing",
+    "author": "Paolo Tonella",
+    "author_position": "first",
+    "institution": "Fondazione Bruno Kessler",
+    "country_code": "IT",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568242",
+    "year": 2014,
+    "title": "Interpolated n-grams for model based testing",
+    "author": "Roberto Tiella",
+    "author_position": "middle",
+    "institution": "Fondazione Bruno Kessler",
+    "country_code": "IT",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568242",
+    "year": 2014,
+    "title": "Interpolated n-grams for model based testing",
+    "author": "Cu Nguyen",
+    "author_position": "last",
+    "institution": "University of Luxembourg",
+    "country_code": "LU",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568276",
+    "year": 2014,
+    "title": "Checking app behavior against app descriptions",
+    "author": "Alessandra Gorla",
+    "author_position": "first",
+    "institution": "Saarland University",
+    "country_code": "DE",
+    "primary_topic": "Advanced Malware Detection Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568276",
+    "year": 2014,
+    "title": "Checking app behavior against app descriptions",
+    "author": "Ilaria Tavecchia",
+    "author_position": "middle",
+    "institution": "Saarland University",
+    "country_code": "DE",
+    "primary_topic": "Advanced Malware Detection Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568276",
+    "year": 2014,
+    "title": "Checking app behavior against app descriptions",
+    "author": "Florian Gro\u00df",
+    "author_position": "middle",
+    "institution": "Saarland University",
+    "country_code": "DE",
+    "primary_topic": "Advanced Malware Detection Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568276",
+    "year": 2014,
+    "title": "Checking app behavior against app descriptions",
+    "author": "Andreas Zeller",
+    "author_position": "last",
+    "institution": "Saarland University",
+    "country_code": "DE",
+    "primary_topic": "Advanced Malware Detection Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568263",
+    "year": 2014,
+    "title": "AR-miner: mining informative reviews for developers from mobile app marketplace",
+    "author": "Ning Chen",
+    "author_position": "first",
+    "institution": "Nanyang Technological University",
+    "country_code": "SG",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568263",
+    "year": 2014,
+    "title": "AR-miner: mining informative reviews for developers from mobile app marketplace",
+    "author": "Jialiu Lin",
+    "author_position": "middle",
+    "institution": "Carnegie Mellon University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568263",
+    "year": 2014,
+    "title": "AR-miner: mining informative reviews for developers from mobile app marketplace",
+    "author": "Steven C. H. Hoi",
+    "author_position": "middle",
+    "institution": "Nanyang Technological University",
+    "country_code": "SG",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568263",
+    "year": 2014,
+    "title": "AR-miner: mining informative reviews for developers from mobile app marketplace",
+    "author": "Xiaokui Xiao",
+    "author_position": "middle",
+    "institution": "Nanyang Technological University",
+    "country_code": "SG",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568263",
+    "year": 2014,
+    "title": "AR-miner: mining informative reviews for developers from mobile app marketplace",
+    "author": "Boshen Zhang",
+    "author_position": "last",
+    "institution": "Nanyang Technological University",
+    "country_code": "SG",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568245",
+    "year": 2014,
+    "title": "Time pressure: a controlled experiment of test case development and requirements review",
+    "author": "Mika M\u00e4ntyl\u00e4",
+    "author_position": "first",
+    "institution": "Aalto University",
+    "country_code": "FI",
+    "primary_topic": "Software Engineering Techniques and Practices"
+  },
+  {
+    "doi": "10.1145/2568225.2568245",
+    "year": 2014,
+    "title": "Time pressure: a controlled experiment of test case development and requirements review",
+    "author": "Kai Petersen",
+    "author_position": "middle",
+    "institution": "Blekinge Institute of Technology",
+    "country_code": "SE",
+    "primary_topic": "Software Engineering Techniques and Practices"
+  },
+  {
+    "doi": "10.1145/2568225.2568245",
+    "year": 2014,
+    "title": "Time pressure: a controlled experiment of test case development and requirements review",
+    "author": "Timo Lehtinen",
+    "author_position": "middle",
+    "institution": "Aalto University",
+    "country_code": "FI",
+    "primary_topic": "Software Engineering Techniques and Practices"
+  },
+  {
+    "doi": "10.1145/2568225.2568245",
+    "year": 2014,
+    "title": "Time pressure: a controlled experiment of test case development and requirements review",
+    "author": "Casper Lassenius",
+    "author_position": "last",
+    "institution": "Aalto University",
+    "country_code": "FI",
+    "primary_topic": "Software Engineering Techniques and Practices"
+  },
+  {
+    "doi": "10.1145/2568225.2568314",
+    "year": 2014,
+    "title": "An analysis of the relationship between conditional entropy and failed error propagation in software testing",
+    "author": "Kelly Androutsopoulos",
+    "author_position": "first",
+    "institution": "Middlesex University",
+    "country_code": "GB",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568314",
+    "year": 2014,
+    "title": "An analysis of the relationship between conditional entropy and failed error propagation in software testing",
+    "author": "David Clark",
+    "author_position": "middle",
+    "institution": "University College London",
+    "country_code": "GB",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568314",
+    "year": 2014,
+    "title": "An analysis of the relationship between conditional entropy and failed error propagation in software testing",
+    "author": "Haitao Dan",
+    "author_position": "middle",
+    "institution": "University College London",
+    "country_code": "GB",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568314",
+    "year": 2014,
+    "title": "An analysis of the relationship between conditional entropy and failed error propagation in software testing",
+    "author": "Robert M. Hierons",
+    "author_position": "middle",
+    "institution": "Brunel University of London",
+    "country_code": "GB",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568314",
+    "year": 2014,
+    "title": "An analysis of the relationship between conditional entropy and failed error propagation in software testing",
+    "author": "Mark Harman",
+    "author_position": "last",
+    "institution": "University College London",
+    "country_code": "GB",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568317",
+    "year": 2014,
+    "title": "Mining fine-grained code changes to detect unknown change patterns",
+    "author": "Stas Negara",
+    "author_position": "first",
+    "institution": "University of Illinois Urbana-Champaign",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568317",
+    "year": 2014,
+    "title": "Mining fine-grained code changes to detect unknown change patterns",
+    "author": "Mihai Codoban",
+    "author_position": "middle",
+    "institution": "Oregon State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568317",
+    "year": 2014,
+    "title": "Mining fine-grained code changes to detect unknown change patterns",
+    "author": "Danny Dig",
+    "author_position": "middle",
+    "institution": "Oregon State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568317",
+    "year": 2014,
+    "title": "Mining fine-grained code changes to detect unknown change patterns",
+    "author": "Ralph E. Johnson",
+    "author_position": "last",
+    "institution": "University of Illinois Urbana-Champaign",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568288",
+    "year": 2014,
+    "title": "APE: an annotation language and middleware for energy-efficient mobile application development",
+    "author": "Nima Nikzad",
+    "author_position": "first",
+    "institution": "University of California, San Diego",
+    "country_code": "US",
+    "primary_topic": "Green IT and Sustainability"
+  },
+  {
+    "doi": "10.1145/2568225.2568288",
+    "year": 2014,
+    "title": "APE: an annotation language and middleware for energy-efficient mobile application development",
+    "author": "Octav Chipara",
+    "author_position": "middle",
+    "institution": "University of Iowa",
+    "country_code": "US",
+    "primary_topic": "Green IT and Sustainability"
+  },
+  {
+    "doi": "10.1145/2568225.2568288",
+    "year": 2014,
+    "title": "APE: an annotation language and middleware for energy-efficient mobile application development",
+    "author": "William G. Griswold",
+    "author_position": "last",
+    "institution": "University of California, San Diego",
+    "country_code": "US",
+    "primary_topic": "Green IT and Sustainability"
+  },
+  {
+    "doi": "10.1145/2568225.2568258",
+    "year": 2014,
+    "title": "MintHint: automated synthesis of repair hints",
+    "author": "Shalini Kaleeswaran",
+    "author_position": "first",
+    "institution": "Indian Institute of Science Bangalore",
+    "country_code": "IN",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568258",
+    "year": 2014,
+    "title": "MintHint: automated synthesis of repair hints",
+    "author": "Varun Tulsian",
+    "author_position": "middle",
+    "institution": "Indian Institute of Science Bangalore",
+    "country_code": "IN",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568258",
+    "year": 2014,
+    "title": "MintHint: automated synthesis of repair hints",
+    "author": "Aditya Kanade",
+    "author_position": "middle",
+    "institution": "Indian Institute of Science Bangalore",
+    "country_code": "IN",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568258",
+    "year": 2014,
+    "title": "MintHint: automated synthesis of repair hints",
+    "author": "Alessandro Orso",
+    "author_position": "last",
+    "institution": "Atlanta Technical College",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568258",
+    "year": 2014,
+    "title": "MintHint: automated synthesis of repair hints",
+    "author": "Alessandro Orso",
+    "author_position": "last",
+    "institution": "Georgia Institute of Technology",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568259",
+    "year": 2014,
+    "title": "Detecting performance anti-patterns for applications developed using object-relational mapping",
+    "author": "Tse-Hsun Chen",
+    "author_position": "first",
+    "institution": "Queen's University",
+    "country_code": "CA",
+    "primary_topic": "Software System Performance and Reliability"
+  },
+  {
+    "doi": "10.1145/2568225.2568259",
+    "year": 2014,
+    "title": "Detecting performance anti-patterns for applications developed using object-relational mapping",
+    "author": "Weiyi Shang",
+    "author_position": "middle",
+    "institution": "Queen's University",
+    "country_code": "CA",
+    "primary_topic": "Software System Performance and Reliability"
+  },
+  {
+    "doi": "10.1145/2568225.2568259",
+    "year": 2014,
+    "title": "Detecting performance anti-patterns for applications developed using object-relational mapping",
+    "author": "Zhen Ming Jiang",
+    "author_position": "middle",
+    "institution": "York University",
+    "country_code": "CA",
+    "primary_topic": "Software System Performance and Reliability"
+  },
+  {
+    "doi": "10.1145/2568225.2568259",
+    "year": 2014,
+    "title": "Detecting performance anti-patterns for applications developed using object-relational mapping",
+    "author": "Ahmed E. Hassan",
+    "author_position": "middle",
+    "institution": "Queen's University",
+    "country_code": "CA",
+    "primary_topic": "Software System Performance and Reliability"
+  },
+  {
+    "doi": "10.1145/2568225.2568259",
+    "year": 2014,
+    "title": "Detecting performance anti-patterns for applications developed using object-relational mapping",
+    "author": "Mohamed Nasser",
+    "author_position": "middle",
+    "institution": "Blackberry (Canada)",
+    "country_code": "CA",
+    "primary_topic": "Software System Performance and Reliability"
+  },
+  {
+    "doi": "10.1145/2568225.2568259",
+    "year": 2014,
+    "title": "Detecting performance anti-patterns for applications developed using object-relational mapping",
+    "author": "Parminder Flora",
+    "author_position": "last",
+    "institution": "Blackberry (Canada)",
+    "country_code": "CA",
+    "primary_topic": "Software System Performance and Reliability"
+  },
+  {
+    "doi": "10.1145/2568225.2568270",
+    "year": 2014,
+    "title": "Effects of using examples on structural model comprehension: a controlled experiment",
+    "author": "Dina Zayan",
+    "author_position": "first",
+    "institution": "University of Waterloo",
+    "country_code": "CA",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568270",
+    "year": 2014,
+    "title": "Effects of using examples on structural model comprehension: a controlled experiment",
+    "author": "Micha\u0142 Antkiewicz",
+    "author_position": "middle",
+    "institution": "University of Waterloo",
+    "country_code": "CA",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568270",
+    "year": 2014,
+    "title": "Effects of using examples on structural model comprehension: a controlled experiment",
+    "author": "Krzysztof Czarnecki",
+    "author_position": "last",
+    "institution": "University of Waterloo",
+    "country_code": "CA",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568251",
+    "year": 2014,
+    "title": "Which configuration option should I change?",
+    "author": "Sai Zhang",
+    "author_position": "first",
+    "institution": "University of Washington",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568251",
+    "year": 2014,
+    "title": "Which configuration option should I change?",
+    "author": "Michael D. Ernst",
+    "author_position": "last",
+    "institution": "University of Washington",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568319",
+    "year": 2014,
+    "title": "Property differencing for incremental checking",
+    "author": "Guowei Yang",
+    "author_position": "first",
+    "institution": "Texas State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568319",
+    "year": 2014,
+    "title": "Property differencing for incremental checking",
+    "author": "Sarfraz Khurshid",
+    "author_position": "middle",
+    "institution": "The University of Texas at Austin",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568319",
+    "year": 2014,
+    "title": "Property differencing for incremental checking",
+    "author": "Suzette Person",
+    "author_position": "middle",
+    "institution": "Langley Research Center",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568319",
+    "year": 2014,
+    "title": "Property differencing for incremental checking",
+    "author": "Neha Rungta",
+    "author_position": "last",
+    "institution": "Ames Research Center",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568280",
+    "year": 2014,
+    "title": "Manual refactoring changes with automated refactoring validation",
+    "author": "Xi Ge",
+    "author_position": "first",
+    "institution": "North Carolina State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568280",
+    "year": 2014,
+    "title": "Manual refactoring changes with automated refactoring validation",
+    "author": "Emerson Murphy-Hill",
+    "author_position": "last",
+    "institution": "North Carolina State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568275",
+    "year": 2014,
+    "title": "Using dynamic analysis to generate disjunctive invariants",
+    "author": "ThanhVu Nguyen",
+    "author_position": "first",
+    "institution": "University of New Mexico",
+    "country_code": "US",
+    "primary_topic": "Formal Methods in Verification"
+  },
+  {
+    "doi": "10.1145/2568225.2568275",
+    "year": 2014,
+    "title": "Using dynamic analysis to generate disjunctive invariants",
+    "author": "Deepak Kapur",
+    "author_position": "middle",
+    "institution": "University of New Mexico",
+    "country_code": "US",
+    "primary_topic": "Formal Methods in Verification"
+  },
+  {
+    "doi": "10.1145/2568225.2568275",
+    "year": 2014,
+    "title": "Using dynamic analysis to generate disjunctive invariants",
+    "author": "Westley Weimer",
+    "author_position": "middle",
+    "institution": "University of Virginia",
+    "country_code": "US",
+    "primary_topic": "Formal Methods in Verification"
+  },
+  {
+    "doi": "10.1145/2568225.2568275",
+    "year": 2014,
+    "title": "Using dynamic analysis to generate disjunctive invariants",
+    "author": "Stephanie Forrest",
+    "author_position": "last",
+    "institution": "University of New Mexico",
+    "country_code": "US",
+    "primary_topic": "Formal Methods in Verification"
+  },
+  {
+    "doi": "10.1145/2568225.2568261",
+    "year": 2014,
+    "title": "The dimensions of software engineering success",
+    "author": "Paul Ralph",
+    "author_position": "first",
+    "institution": "Lancaster University",
+    "country_code": "GB",
+    "primary_topic": "Software Engineering Techniques and Practices"
+  },
+  {
+    "doi": "10.1145/2568225.2568261",
+    "year": 2014,
+    "title": "The dimensions of software engineering success",
+    "author": "Paul Kelly",
+    "author_position": "last",
+    "institution": "Lancaster University",
+    "country_code": "GB",
+    "primary_topic": "Software Engineering Techniques and Practices"
+  },
+  {
+    "doi": "10.1145/2568225.2568227",
+    "year": 2014,
+    "title": "Brownout: building more robust cloud applications",
+    "author": "Cristian Klein",
+    "author_position": "first",
+    "institution": "Ume\u00e5 University",
+    "country_code": "SE",
+    "primary_topic": "Cloud Computing and Resource Management"
+  },
+  {
+    "doi": "10.1145/2568225.2568227",
+    "year": 2014,
+    "title": "Brownout: building more robust cloud applications",
+    "author": "Martina Maggio",
+    "author_position": "middle",
+    "institution": "Lund University",
+    "country_code": "SE",
+    "primary_topic": "Cloud Computing and Resource Management"
+  },
+  {
+    "doi": "10.1145/2568225.2568227",
+    "year": 2014,
+    "title": "Brownout: building more robust cloud applications",
+    "author": "Karl-Erik \u00c5rz\u00e9n",
+    "author_position": "middle",
+    "institution": "Lund University",
+    "country_code": "SE",
+    "primary_topic": "Cloud Computing and Resource Management"
+  },
+  {
+    "doi": "10.1145/2568225.2568227",
+    "year": 2014,
+    "title": "Brownout: building more robust cloud applications",
+    "author": "Francisco Hern\u00e1ndez-Rodr\u00edguez",
+    "author_position": "last",
+    "institution": "Ume\u00e5 University",
+    "country_code": "SE",
+    "primary_topic": "Cloud Computing and Resource Management"
+  },
+  {
+    "doi": "10.1145/2568225.2568294",
+    "year": 2014,
+    "title": "SimRT: an automated framework to support regression testing for data races",
+    "author": "Tingting Yu",
+    "author_position": "first",
+    "institution": "University of Nebraska\u2013Lincoln",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568294",
+    "year": 2014,
+    "title": "SimRT: an automated framework to support regression testing for data races",
+    "author": "Witawas Srisa\u2010an",
+    "author_position": "middle",
+    "institution": "University of Nebraska\u2013Lincoln",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568294",
+    "year": 2014,
+    "title": "SimRT: an automated framework to support regression testing for data races",
+    "author": "Gregg Rothermel",
+    "author_position": "last",
+    "institution": "University of Nebraska\u2013Lincoln",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568290",
+    "year": 2014,
+    "title": "Mind the gap: assessing the conformance of software traceability to relevant guidelines",
+    "author": "Patrick Rempel",
+    "author_position": "first",
+    "institution": "Technische Universit\u00e4t Ilmenau",
+    "country_code": "DE",
+    "primary_topic": "Software Reliability and Analysis Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568290",
+    "year": 2014,
+    "title": "Mind the gap: assessing the conformance of software traceability to relevant guidelines",
+    "author": "Patrick M\u00e4der",
+    "author_position": "middle",
+    "institution": "Technische Universit\u00e4t Ilmenau",
+    "country_code": "DE",
+    "primary_topic": "Software Reliability and Analysis Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568290",
+    "year": 2014,
+    "title": "Mind the gap: assessing the conformance of software traceability to relevant guidelines",
+    "author": "Tobias Kuschke",
+    "author_position": "middle",
+    "institution": "Technische Universit\u00e4t Ilmenau",
+    "country_code": "DE",
+    "primary_topic": "Software Reliability and Analysis Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568290",
+    "year": 2014,
+    "title": "Mind the gap: assessing the conformance of software traceability to relevant guidelines",
+    "author": "Jane Cleland\u2010Huang",
+    "author_position": "last",
+    "institution": "DePaul University",
+    "country_code": "US",
+    "primary_topic": "Software Reliability and Analysis Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568296",
+    "year": 2014,
+    "title": "Reuse-oriented reverse engineering of functional components from x86 binaries",
+    "author": "Dohyeong Kim",
+    "author_position": "first",
+    "institution": "Purdue University West Lafayette",
+    "country_code": "US",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568296",
+    "year": 2014,
+    "title": "Reuse-oriented reverse engineering of functional components from x86 binaries",
+    "author": "William N. Sumner",
+    "author_position": "middle",
+    "institution": "Simon Fraser University",
+    "country_code": "CA",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568296",
+    "year": 2014,
+    "title": "Reuse-oriented reverse engineering of functional components from x86 binaries",
+    "author": "Xiangyu Zhang",
+    "author_position": "middle",
+    "institution": "Purdue University West Lafayette",
+    "country_code": "US",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568296",
+    "year": 2014,
+    "title": "Reuse-oriented reverse engineering of functional components from x86 binaries",
+    "author": "Dongyan Xu",
+    "author_position": "middle",
+    "institution": "Purdue University West Lafayette",
+    "country_code": "US",
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568296",
+    "year": 2014,
+    "title": "Reuse-oriented reverse engineering of functional components from x86 binaries",
+    "author": "Hira Agrawal",
+    "author_position": "last",
+    "institution": null,
+    "country_code": null,
+    "primary_topic": "Parallel Computing and Optimization Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568241",
+    "year": 2014,
+    "title": "Design rule spaces: a new form of architecture insight",
+    "author": "Lu Xiao",
+    "author_position": "first",
+    "institution": "Drexel University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568241",
+    "year": 2014,
+    "title": "Design rule spaces: a new form of architecture insight",
+    "author": "Yuanfang Cai",
+    "author_position": "middle",
+    "institution": "Drexel University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568241",
+    "year": 2014,
+    "title": "Design rule spaces: a new form of architecture insight",
+    "author": "Rick Kazman",
+    "author_position": "last",
+    "institution": "University of Hawaii System",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568241",
+    "year": 2014,
+    "title": "Design rule spaces: a new form of architecture insight",
+    "author": "Rick Kazman",
+    "author_position": "last",
+    "institution": "Stockholm Environment Institute",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568293",
+    "year": 2014,
+    "title": "Enhancing symbolic execution with veritesting",
+    "author": "Thanassis Avgerinos",
+    "author_position": "first",
+    "institution": "Carnegie Mellon University",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568293",
+    "year": 2014,
+    "title": "Enhancing symbolic execution with veritesting",
+    "author": "Alexandre Rebert",
+    "author_position": "middle",
+    "institution": "Carnegie Mellon University",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568293",
+    "year": 2014,
+    "title": "Enhancing symbolic execution with veritesting",
+    "author": "Sang Kil",
+    "author_position": "middle",
+    "institution": "Carnegie Mellon University",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568293",
+    "year": 2014,
+    "title": "Enhancing symbolic execution with veritesting",
+    "author": "David Brumley",
+    "author_position": "last",
+    "institution": "Carnegie Mellon University",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568267",
+    "year": 2014,
+    "title": "Lifting model transformations to product lines",
+    "author": "Rick Salay",
+    "author_position": "first",
+    "institution": "University of Toronto",
+    "country_code": "CA",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568267",
+    "year": 2014,
+    "title": "Lifting model transformations to product lines",
+    "author": "Michalis Famelis",
+    "author_position": "middle",
+    "institution": "University of Toronto",
+    "country_code": "CA",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568267",
+    "year": 2014,
+    "title": "Lifting model transformations to product lines",
+    "author": "Julia Rubin",
+    "author_position": "middle",
+    "institution": "University of Toronto",
+    "country_code": "CA",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568267",
+    "year": 2014,
+    "title": "Lifting model transformations to product lines",
+    "author": "Alessio Di Sandro",
+    "author_position": "middle",
+    "institution": "University of Toronto",
+    "country_code": "CA",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568267",
+    "year": 2014,
+    "title": "Lifting model transformations to product lines",
+    "author": "Marsha Che\u0107hik",
+    "author_position": "last",
+    "institution": "University of Toronto",
+    "country_code": "CA",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568272",
+    "year": 2014,
+    "title": "Automated design of self-adaptive software with control-theoretical formal guarantees",
+    "author": "Antonio Filieri",
+    "author_position": "first",
+    "institution": "University of Stuttgart",
+    "country_code": "DE",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568272",
+    "year": 2014,
+    "title": "Automated design of self-adaptive software with control-theoretical formal guarantees",
+    "author": "Henry Hoffmann",
+    "author_position": "middle",
+    "institution": "University of Chicago",
+    "country_code": "US",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568272",
+    "year": 2014,
+    "title": "Automated design of self-adaptive software with control-theoretical formal guarantees",
+    "author": "Martina Maggio",
+    "author_position": "last",
+    "institution": "Lund University",
+    "country_code": "SE",
+    "primary_topic": "Advanced Software Engineering Methodologies"
+  },
+  {
+    "doi": "10.1145/2568225.2568228",
+    "year": 2014,
+    "title": "How to make best use of cross-company data in software effort estimation?",
+    "author": "Leandro L. Minku",
+    "author_position": "first",
+    "institution": "University of Birmingham",
+    "country_code": "GB",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568228",
+    "year": 2014,
+    "title": "How to make best use of cross-company data in software effort estimation?",
+    "author": "Xin Yao",
+    "author_position": "last",
+    "institution": "University of Birmingham",
+    "country_code": "GB",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568257",
+    "year": 2014,
+    "title": "Vejovis: suggesting fixes for JavaScript faults",
+    "author": "Frolin S. Ocariza",
+    "author_position": "first",
+    "institution": "University of British Columbia",
+    "country_code": "CA",
+    "primary_topic": "Web Application Security Vulnerabilities"
+  },
+  {
+    "doi": "10.1145/2568225.2568257",
+    "year": 2014,
+    "title": "Vejovis: suggesting fixes for JavaScript faults",
+    "author": "Karthik Pattabiraman",
+    "author_position": "middle",
+    "institution": "University of British Columbia",
+    "country_code": "CA",
+    "primary_topic": "Web Application Security Vulnerabilities"
+  },
+  {
+    "doi": "10.1145/2568225.2568257",
+    "year": 2014,
+    "title": "Vejovis: suggesting fixes for JavaScript faults",
+    "author": "Ali Mesbah",
+    "author_position": "last",
+    "institution": "University of British Columbia",
+    "country_code": "CA",
+    "primary_topic": "Web Application Security Vulnerabilities"
+  },
+  {
+    "doi": "10.1145/2568225.2568302",
+    "year": 2014,
+    "title": "Mining interprocedural, data-oriented usage patterns in JavaScript web applications",
+    "author": "Hung Viet Nguyen",
+    "author_position": "first",
+    "institution": "Iowa State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568302",
+    "year": 2014,
+    "title": "Mining interprocedural, data-oriented usage patterns in JavaScript web applications",
+    "author": "Hoan Anh Nguyen",
+    "author_position": "middle",
+    "institution": "Iowa State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568302",
+    "year": 2014,
+    "title": "Mining interprocedural, data-oriented usage patterns in JavaScript web applications",
+    "author": "Anh Tuan Nguyen",
+    "author_position": "middle",
+    "institution": "Iowa State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568302",
+    "year": 2014,
+    "title": "Mining interprocedural, data-oriented usage patterns in JavaScript web applications",
+    "author": "Tien N. Nguyen",
+    "author_position": "last",
+    "institution": "Iowa State University",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568250",
+    "year": 2014,
+    "title": "CodeHint: dynamic and interactive synthesis of code snippets",
+    "author": "Joel Galenson",
+    "author_position": "first",
+    "institution": "University of California, Berkeley",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568250",
+    "year": 2014,
+    "title": "CodeHint: dynamic and interactive synthesis of code snippets",
+    "author": "Philip Reames",
+    "author_position": "middle",
+    "institution": "University of California, Berkeley",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568250",
+    "year": 2014,
+    "title": "CodeHint: dynamic and interactive synthesis of code snippets",
+    "author": "Rastislav Bod\u00edk",
+    "author_position": "middle",
+    "institution": "University of California, Berkeley",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568250",
+    "year": 2014,
+    "title": "CodeHint: dynamic and interactive synthesis of code snippets",
+    "author": "Bj\u00f6rn Hartmann",
+    "author_position": "middle",
+    "institution": "University of California, Berkeley",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568250",
+    "year": 2014,
+    "title": "CodeHint: dynamic and interactive synthesis of code snippets",
+    "author": "Koushik Sen",
+    "author_position": "last",
+    "institution": "University of California, Berkeley",
+    "country_code": "US",
+    "primary_topic": "Software Testing and Debugging Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568233",
+    "year": 2014,
+    "title": "Analyze this! 145 questions for data scientists in software engineering",
+    "author": "Andrew Begel",
+    "author_position": "first",
+    "institution": "Microsoft (United States)",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568233",
+    "year": 2014,
+    "title": "Analyze this! 145 questions for data scientists in software engineering",
+    "author": "Thomas Zimmermann",
+    "author_position": "last",
+    "institution": "Microsoft (United States)",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568301",
+    "year": 2014,
+    "title": "AsDroid: detecting stealthy behaviors in Android applications by user interface and program behavior contradiction",
+    "author": "Jianjun Huang",
+    "author_position": "first",
+    "institution": "Purdue University West Lafayette",
+    "country_code": "US",
+    "primary_topic": "Advanced Malware Detection Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568301",
+    "year": 2014,
+    "title": "AsDroid: detecting stealthy behaviors in Android applications by user interface and program behavior contradiction",
+    "author": "Xiangyu Zhang",
+    "author_position": "middle",
+    "institution": "Purdue University West Lafayette",
+    "country_code": "US",
+    "primary_topic": "Advanced Malware Detection Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568301",
+    "year": 2014,
+    "title": "AsDroid: detecting stealthy behaviors in Android applications by user interface and program behavior contradiction",
+    "author": "Lin Tan",
+    "author_position": "middle",
+    "institution": "University of Waterloo",
+    "country_code": "CA",
+    "primary_topic": "Advanced Malware Detection Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568301",
+    "year": 2014,
+    "title": "AsDroid: detecting stealthy behaviors in Android applications by user interface and program behavior contradiction",
+    "author": "Peng Wang",
+    "author_position": "middle",
+    "institution": "Renmin University of China",
+    "country_code": "CN",
+    "primary_topic": "Advanced Malware Detection Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568301",
+    "year": 2014,
+    "title": "AsDroid: detecting stealthy behaviors in Android applications by user interface and program behavior contradiction",
+    "author": "Bin Liang",
+    "author_position": "last",
+    "institution": "Renmin University of China",
+    "country_code": "CN",
+    "primary_topic": "Advanced Malware Detection Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568305",
+    "year": 2014,
+    "title": "Software engineering at the speed of light: how developers stay current using twitter",
+    "author": "Leif Singer",
+    "author_position": "first",
+    "institution": "University of Victoria",
+    "country_code": "CA",
+    "primary_topic": "Open Source Software Innovations"
+  },
+  {
+    "doi": "10.1145/2568225.2568305",
+    "year": 2014,
+    "title": "Software engineering at the speed of light: how developers stay current using twitter",
+    "author": "Fernando Figueira Filho",
+    "author_position": "middle",
+    "institution": "Universidade Federal do Rio Grande do Norte",
+    "country_code": "BR",
+    "primary_topic": "Open Source Software Innovations"
+  },
+  {
+    "doi": "10.1145/2568225.2568305",
+    "year": 2014,
+    "title": "Software engineering at the speed of light: how developers stay current using twitter",
+    "author": "Margaret\u2010Anne Storey",
+    "author_position": "last",
+    "institution": "University of Victoria",
+    "country_code": "CA",
+    "primary_topic": "Open Source Software Innovations"
+  },
+  {
+    "doi": "10.1145/2568225.2568299",
+    "year": 2014,
+    "title": "How do API documentation and static typing affect API usability?",
+    "author": "Stefan Endrikat",
+    "author_position": "first",
+    "institution": "University of Duisburg-Essen",
+    "country_code": "DE",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568299",
+    "year": 2014,
+    "title": "How do API documentation and static typing affect API usability?",
+    "author": "Stefan Hanenberg",
+    "author_position": "middle",
+    "institution": "University of Duisburg-Essen",
+    "country_code": "DE",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568299",
+    "year": 2014,
+    "title": "How do API documentation and static typing affect API usability?",
+    "author": "Romain Robbes",
+    "author_position": "middle",
+    "institution": "University of Chile",
+    "country_code": "CL",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568299",
+    "year": 2014,
+    "title": "How do API documentation and static typing affect API usability?",
+    "author": "Andreas Stefik",
+    "author_position": "last",
+    "institution": "University of Nevada, Las Vegas",
+    "country_code": "US",
+    "primary_topic": "Software Engineering Research"
+  },
+  {
+    "doi": "10.1145/2568225.2568286",
+    "year": 2014,
+    "title": "Achieving accuracy and scalability simultaneously in detecting application clones on Android markets",
+    "author": "Kai Chen",
+    "author_position": "first",
+    "institution": "Institute of Information Engineering",
+    "country_code": "CN",
+    "primary_topic": "Advanced Malware Detection Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568286",
+    "year": 2014,
+    "title": "Achieving accuracy and scalability simultaneously in detecting application clones on Android markets",
+    "author": "Kai Chen",
+    "author_position": "first",
+    "institution": "Chinese Academy of Sciences",
+    "country_code": "CN",
+    "primary_topic": "Advanced Malware Detection Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568286",
+    "year": 2014,
+    "title": "Achieving accuracy and scalability simultaneously in detecting application clones on Android markets",
+    "author": "Kai Chen",
+    "author_position": "first",
+    "institution": "Pennsylvania State University",
+    "country_code": "US",
+    "primary_topic": "Advanced Malware Detection Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568286",
+    "year": 2014,
+    "title": "Achieving accuracy and scalability simultaneously in detecting application clones on Android markets",
+    "author": "Peng Liu",
+    "author_position": "middle",
+    "institution": "Pennsylvania State University",
+    "country_code": "US",
+    "primary_topic": "Advanced Malware Detection Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568286",
+    "year": 2014,
+    "title": "Achieving accuracy and scalability simultaneously in detecting application clones on Android markets",
+    "author": "Ying\u2010Jun Zhang",
+    "author_position": "last",
+    "institution": "Institute of Software",
+    "country_code": "CN",
+    "primary_topic": "Advanced Malware Detection Techniques"
+  },
+  {
+    "doi": "10.1145/2568225.2568286",
+    "year": 2014,
+    "title": "Achieving accuracy and scalability simultaneously in detecting application clones on Android markets",
+    "author": "Ying\u2010Jun Zhang",
+    "author_position": "last",
+    "institution": "Chinese Academy of Sciences",
+    "country_code": "CN",
+    "primary_topic": "Advanced Malware Detection Techniques"
+  }
+]
