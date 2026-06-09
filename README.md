@@ -11,10 +11,10 @@ Neither conference has genuinely diversified. Changes in geographic
 representation reflect shifts between dominant powers, not broader global
 inclusion.
 
-ICSA is and has always been a Western European conference. Western Europe
+ICSA is and has historically been a Western European conference. Western Europe
 never fell below 51% of annual paper representation across the full 15-year
 period, peaking at 83% in 2013. Germany, France, and the Netherlands
-consistently lead.
+consistently lead this conference.
 
 ICSE flipped from US-dominated to China-dominated, but that is the extent
 of the change. The US led every single year from 2010-2021. China overtook
@@ -25,14 +25,15 @@ Asia-Pacific now leads ICSE. The region grew from 16% of papers in
 2010-2012 to 55% in 2022-2024, almost entirely driven by Chinese
 institutions.
 
-The Global South is essentially absent from both conferences. Latin America,
-Eastern Europe, the Middle East, and Africa together account for less than
-10% of papers in either venue across all 15 years, with no meaningful
-upward trend.
+Latin America,Eastern Europe, the Middle East, and Africa together account for
+less than 10% of papers in either venue across all 15 years, with no meaningful
+upward trend. Proving lack of geographic diversification and consistent 
+marginalization of these regions.
 
-Australia punches above its weight in ICSA. CSIRO, Data61, and UNSW Sydney
-collectively account for 121 author-institution rows, making Australia the
-third most represented country at the institutional level.
+Australia is also a strong contributor in the ICSA despite size and location. 
+CSIRO, Data61, and UNSW Sydney collectively account for 121 author-institution 
+rows, making Australia the third most represented country at the institutional 
+level.
 
 
 ## By the Numbers
@@ -77,6 +78,7 @@ Raw data: data/raw/icsa_affiliations.json, data/raw/icse_affiliations.json
 ## Bottom Line
 
 Software engineering's most prestigious venues are not globally inclusive.
-ICSA is a Western European club. ICSE traded US dominance for Chinese
-dominance. Researchers from the Global South remain largely locked out of
-both conferences, and the trend lines show no sign of changing.
+ICSA is a Western European dominated venue. ICSE traded US dominance for Chinese
+dominance. Researchers from the Middle East, Africa, and Latin America remain
+largely locked out of both conferences, and the trend lines show no sign of 
+changing.
